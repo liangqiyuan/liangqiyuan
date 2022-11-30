@@ -6,10 +6,6 @@ title: Liangqi Yuan
 first_name: Liangqi
 last_name: Yuan
 
-# Status emoji
-status:
-  icon: 
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -20,15 +16,6 @@ role: PhD Student
 organizations:
   - name: Purdue University
     url: https://www.purdue.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
@@ -58,9 +45,6 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
 
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
