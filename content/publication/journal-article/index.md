@@ -1,16 +1,11 @@
 ---
-title: "An example journal article"
+title: "Velostat Sensor Array for Object Recognition"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+- Hongwei Qu
+- Jia Li
+date: "2021-12-03T00:00:00Z"
+doi: "10.1109/JSEN.2021.3132793"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,50 +14,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "IEEE Sensors Journal"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: This paper presents a cost-effective pressure sensing system for object detection and identification. The pressure sensing system consists of a 27×27 piezoresistive sensor array made of carbon composite Velostat, a signal processing subsystem for signal scanning, amplification, registration, and enhancement. A convolutional neural network is used to classify various objects through the pressure signals produced and processed by the sensing array. Based on systematic characterizations and calibrations of sensing materials and system sensitivity, three experiment setups are established to recognize 10 objects to be detected. In series of experiments, a pressure image data set consisting of 32264 frames of images is first assembled to represent the 10 objects. Contrast enhancement algorithm was used to process the pressure image data set and combined with a convolutional neural network ResNet-PI to classify the 10 objects. For pressure images collected with the preestablished three experiment setups, an overall accuracy of 0.9854 is achieved. Compared with other systems based on Velostat sensor array, the system demonstrated in this study features improvements in structural robustness, detection repeatability and system reliability, suggesting its potential applications in emerging areas including human-computer interaction and smart health monitoring.
 
 tags:
-- Source Themes
-featured: false
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}
