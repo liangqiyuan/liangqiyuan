@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: about.Liangqi Yuan
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -129,7 +129,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  
    - block: collection
     id: featured
     content:
@@ -140,9 +139,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card -->
-      
-      
+      view: card -->   
   - block: collection
     content:
       title: Recent Publications
