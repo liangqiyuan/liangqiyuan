@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.Liangqi Yuan
+  - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -17,11 +17,11 @@ sections:
       title: Skills
       items:
         - name: Python
-<!--           description: 90% -->
+          description: 90%
           icon: python
           icon_pack: fab
         - name: MATLAB
-<!--           description: 90% -->
+          description: 90%
           icon: matlab
           icon_pack: fab
         - name: R
