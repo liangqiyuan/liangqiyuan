@@ -5,7 +5,7 @@ date: 2022-11-30
 type: landing
 
 sections:
-  - block: about.Liangqi Yuan
+  - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
