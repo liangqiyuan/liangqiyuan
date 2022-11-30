@@ -25,8 +25,6 @@ tags:
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 
----
-
 title: "Interpretable Passive Multi-Modal Sensor Fusion for Human Identification and Activity Recognition"
 authors:
 - admin
