@@ -12,7 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
+<!--   - block: features
     content:
       title: Skills
       items:
@@ -38,8 +38,8 @@ sections:
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix. -->
+<!--       items:
         - title: CEO
           company: GenCoin
           company_url: ''
@@ -102,33 +102,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -156,25 +129,20 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
+  
+   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: card -->
+      
+      
   - block: collection
     content:
       title: Recent Publications
@@ -189,7 +157,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+<!--   - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -250,5 +218,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '2' -->
 ---
