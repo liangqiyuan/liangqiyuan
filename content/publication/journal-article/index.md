@@ -25,10 +25,12 @@ tags:
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 
+---
+
 title: "Interpretable Passive Multi-Modal Sensor Fusion for Human Identification and Activity Recognition"
 authors:
 - admin
-- Hongwei Qu
+- Hongwei Qu6
 - Jia Li
 date: "2021-12-03T00:00:00Z"
 doi: "10.1109/JSEN.2021.3132793"
