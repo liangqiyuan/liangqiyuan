@@ -14,7 +14,6 @@ sections:
       text: 
     design:
       columns: '2'
-      view: citation
   - block: collection
     content:
       title: Publications
