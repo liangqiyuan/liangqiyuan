@@ -15,7 +15,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE 41st International Conference on Consumer Electronics*
-publication_short: *ICCE*
+publication_short: ICCE
 
 abstract: ...
 
