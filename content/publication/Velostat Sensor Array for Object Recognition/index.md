@@ -24,7 +24,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://liangqiyuan.github.io/content/publication/Velostat Sensor Array for Object Recognition/Velostat_Sensor_Array_for_Object_Recognition.pdf
+url_pdf: 'https://liangqiyuan.github.io/content/publication/Velostat Sensor Array for Object Recognition/Velostat_Sensor_Array_for_Object_Recognition.pdf'
 
 ---
 
