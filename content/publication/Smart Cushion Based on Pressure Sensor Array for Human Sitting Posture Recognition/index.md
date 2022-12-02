@@ -29,8 +29,9 @@ tags: []
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://github.com/liangqiyuan/liangqiyuan.github.io/blob/main/content/publication/Smart%20Cushion%20Based%20on%20Pressure%20Sensor%20Array%20for%20Human%20Sitting%20Posture%20Recognition/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition.pdf
-url_poster: https://github.com/liangqiyuan/liangqiyuan.github.io/blob/main/content/publication/Smart%20Cushion%20Based%20on%20Pressure%20Sensor%20Array%20for%20Human%20Sitting%20Posture%20Recognition/liangqi-yuan-paper-1247-poster.jpg
+url_pdf: url_pdf: https://liangqiyuan.github.io/content/publication/Smart%20Cushion%20Based%20on%20Pressure%20Sensor%20Array%20for%20Human%20Sitting%20Posture%20Recognition/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition.pdf
+url_poster: https://liangqiyuan.github.io/content/publication/Smart%20Cushion%20Based%20on%20Pressure%20Sensor%20Array%20for%20Human%20Sitting%20Posture%20Recognition/liangqi-yuan-paper-1247-poster.jpg
+
 ---
 
 {{% callout note %}}
