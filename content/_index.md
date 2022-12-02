@@ -26,4 +26,16 @@ sections:
     design:
       columns: '2'
       view: citation
+      
+      
+  - block: collection
+    content:
+      title: News
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 ---
