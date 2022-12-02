@@ -12,6 +12,9 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: 
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     content:
       title: Publications
@@ -24,6 +27,6 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '3'
+      columns: '2'
       view: citation
 ---
