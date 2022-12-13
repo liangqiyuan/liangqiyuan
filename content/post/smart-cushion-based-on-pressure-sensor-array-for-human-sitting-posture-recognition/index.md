@@ -2,11 +2,17 @@
 title: Smart Cushion Based on Pressure Sensor Array for Human Sitting Posture
   Recognition
 date: 2021-08-18T00:00:00.000Z
-draft: true
+draft: false
 featured: true
 authors:
   - admin
   - Jia Li
+tags:
+  - "666"
+categories:
+  - "777"
+projects:
+  - "888"
 image:
   filename: sitting-posture.png
   focal_point: Smart
