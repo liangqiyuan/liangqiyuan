@@ -29,11 +29,11 @@ tags:
 
 # links:
 - name: Journal Cover
-  url: https://liangqiy/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/sensors-i15-v22-draft-cover.jpg
+  url: https://www.mdpi.com/files/uploaded/covers/sensors/big_cover-sensors-v22-i15.png
 url_pdf: https://liangqiy/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition.pdf
 url_code: ''
 url_dataset: ''
-url_poster: https://liangqiy/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/sensors-i15-v22-draft-cover.jpg
+url_poster: https://www.mdpi.com/files/uploaded/covers/sensors/big_cover-sensors-v22-i15.png
 url_project: ''
 url_slides: ''
 url_source: ''
