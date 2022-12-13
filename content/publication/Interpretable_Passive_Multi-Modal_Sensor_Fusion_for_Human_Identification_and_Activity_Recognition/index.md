@@ -13,6 +13,7 @@ authors:
   - Jia Li
 doi: 10.3390/s22155787
 publication: _Sensors_
+publication_short: ""
 abstract: Human monitoring applications in indoor environments depend on
   accurate human identification and activity recognition (HIAR). Single modality
   sensor systems have shown to be accurate for HIAR, but there are some
