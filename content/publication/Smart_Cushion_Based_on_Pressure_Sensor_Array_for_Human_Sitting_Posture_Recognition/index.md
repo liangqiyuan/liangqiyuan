@@ -30,7 +30,7 @@ tags: []
 #   url: http://example.org
 
 url_pdf: https://liangqiyuan.github.io/content/publication/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition.pdf
-url_poster: https://liangqiyuan.github.io/content/publication/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition/liangqi-yuan-paper-1247-poster.jpg
+url_poster: https://liangqiy/content/publication/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition/liangqi-yuan-paper-1247-poster.jpg
 
 ---
 
