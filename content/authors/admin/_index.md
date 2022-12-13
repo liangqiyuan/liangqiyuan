@@ -2,8 +2,7 @@
 title: Liangqi Yuan
 role: PhD Student
 status:
-  - icon: ieee
-    icon_pack: ai
+  icon: 🇱🇾
   
 avatar_filename: Liangqi Yuan.jpg
 interests:
