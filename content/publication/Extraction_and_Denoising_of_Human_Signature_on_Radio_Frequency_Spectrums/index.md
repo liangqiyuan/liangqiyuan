@@ -1,9 +1,12 @@
 ---
 title: "Extraction and Denoising of Human Signature on Radio Frequency Spectrums"
+
+# Authors
 authors:
 - Shiyu Yang
 - admin
 - Jia Li
+
 date: "2023-01-06T00:00:00Z"
 doi: ""
 
@@ -17,7 +20,7 @@ publication_types: ["3"]
 publication: _IEEE 41st International Conference on Consumer Electronics_
 publication_short: _ICCE_
 
-abstract: ...
+abstract:
 
 tags: []
 
