@@ -1,6 +1,10 @@
 ---
 title: Liangqi Yuan
 role: PhD Student
+status:
+  icon: ieee
+  icon_pack: ai
+  
 avatar_filename: Liangqi Yuan.jpg
 interests:
   - Artificial Intelligence
