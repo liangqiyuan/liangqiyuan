@@ -28,6 +28,3 @@ image:
 date: 2021-10-01T00:00:00.000Z
 url_poster: https://liangqiyuan.github.io/content/publication/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition/liangqi-yuan-paper-1247-poster.jpg
 ---
-links:
-- name: Journal Cover
-  url: https://liangqiyuan.github.io/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/big_cover-sensors-v22-i15.png
