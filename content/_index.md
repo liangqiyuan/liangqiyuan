@@ -19,7 +19,7 @@ sections:
       subtitle: ''
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content by [filtering publications](./posts/).
         {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
