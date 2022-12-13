@@ -28,7 +28,7 @@ abstract: Human monitoring applications in indoor environments depend on accurat
 tags:
 
 links:
-- name: :sparkles: Journal Cover
+- name: Journal Cover
   url: https://www.mdpi.com/files/uploaded/covers/sensors/big_cover-sensors-v22-i15.png
 url_pdf: https://liangqiy/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition.pdf
 url_code: ''
