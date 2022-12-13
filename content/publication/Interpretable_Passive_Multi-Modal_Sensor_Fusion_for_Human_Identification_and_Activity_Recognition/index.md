@@ -29,12 +29,11 @@ tags:
 
 # links:
 - name: Journal Cover
-  url: https://liangqiyuan.github.io/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/sensors-i15-v22-draft-cover.jpg
-
-url_pdf: https://liangqiyuan.github.io/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition.pdf
+  url: https://liangqiy/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/sensors-i15-v22-draft-cover.jpg
+url_pdf: https://liangqiy/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition.pdf
 url_code: ''
 url_dataset: ''
-url_poster: 'https://liangqiyuan.github.io/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/sensors-i15-v22-draft-cover.jpg'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
