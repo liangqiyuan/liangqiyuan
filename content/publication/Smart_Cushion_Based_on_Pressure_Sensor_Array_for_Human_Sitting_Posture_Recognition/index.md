@@ -26,6 +26,6 @@ image:
   filename: sitting-posture.png
   focal_point: ""
 date: 2021-10-01T00:00:00.000Z
-url_poster: uploads/liangqi-yuan-paper-1247-poster.jpg
+url_poster: poster/liangqi-yuan-paper-1247-poster.jpg
 
 ---
