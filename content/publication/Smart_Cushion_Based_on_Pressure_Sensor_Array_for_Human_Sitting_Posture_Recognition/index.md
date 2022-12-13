@@ -20,7 +20,7 @@ abstract: A smart cushion based on a pressure sensor array is designed and
 draft: false
 url_pdf: https://liangqiyuan.github.io/content/publication/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition.pdf
 doi: 10.1109/SENSORS47087.2021.9639463
-featured: true
+featured: false
 tags: []
 image:
   filename: sitting-posture.png
