@@ -7,7 +7,8 @@ authors:
 - admin
 - Jia Li
 
-date: "2022-01-06T00:00:00Z"
+date: "2022-11-04T00:00:00Z"
+publishDate: "2023-01-06T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -29,7 +30,7 @@ tags: []
 # - name: ""
 #   url: ""
 
-url_pdf: https://liangqiy.com/
+url_pdf: 
 
 
 
