@@ -23,7 +23,7 @@ doi: 10.1109/SENSORS47087.2021.9639463
 featured: true
 tags: []
 image:
-  filename: sitting-posture.jpg
+  filename: sitting-posture.png
 date: 2021-10-01T00:00:00Z
 url_poster: https://liangqiy/content/publication/Smart_Cushion_Based_on_Pressure_Sensor_Array_for_Human_Sitting_Posture_Recognition/liangqi-yuan-paper-1247-poster.jpg
 ---
