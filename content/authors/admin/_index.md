@@ -2,7 +2,7 @@
 title: Liangqi Yuan
 role: PhD Student
 status:
-  icon: 🐈
+  icon: ☕️
   
 avatar_filename: Liangqi Yuan.jpg
 interests:
