@@ -27,5 +27,7 @@ abstract: This paper presents a cost-effective pressure sensing system for
   robustness, detection repeatability and system reliability, suggesting its
   potential applications in emerging areas including human-computer interaction
   and smart health monitoring.
+image:
+  filename: system-diagram.png
 date: 2021-12-03T08:35:06.551Z
 ---
