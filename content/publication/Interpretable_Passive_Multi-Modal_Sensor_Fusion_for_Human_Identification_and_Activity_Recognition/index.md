@@ -20,5 +20,5 @@ image:
 date: 2022-08-03T06:32:00.000Z
 links:
 - name: Journal Cover
-  url: https://liangqiyuan.github.io/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/big_cover-sensors-v22-i15.png
+  url: 'https://liangqiyuan.github.io/content/publication/Interpretable_Passive_Multi-Modal_Sensor_Fusion_for_Human_Identification_and_Activity_Recognition/big_cover-sensors-v22-i15.png'
 ---
