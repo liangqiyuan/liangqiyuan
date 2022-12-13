@@ -29,7 +29,7 @@ tags: []
 # - name: ""
 #   url: ""
 
-url_pdf: ''
+url_pdf: https://liangqiy.com/
 url_code: ''
 url_dataset: ''
 url_poster: ''
