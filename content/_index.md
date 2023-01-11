@@ -36,8 +36,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: yuan383@purdue.edu
       address:
-        street: Hampton Hall 2155
-        street2: 550 Stadium Mall Drive
+        street: Hampton Hall 2155, 550 Stadium Mall Drive
         city: West Lafayette
         region: IN
         postcode: '47907'
