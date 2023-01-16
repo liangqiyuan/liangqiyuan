@@ -13,6 +13,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:yuan383@purdue.edu
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/liangqi-yuan-0111311a9/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=T2TDbMcAAAAJ&hl=en&oi=ao
