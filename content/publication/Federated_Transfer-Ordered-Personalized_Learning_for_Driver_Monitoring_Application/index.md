@@ -7,7 +7,7 @@ authors:
   - admin
   - Su Lu
   - Ziran Wang
-doi: https://arxiv.org/abs/2301.04829
+doi: ''
 publication: _arXiv_
 publication_short: ""
 abstract: Federated learning (FL) shines through in the internet of things (IoT)
@@ -30,5 +30,7 @@ abstract: Federated learning (FL) shines through in the internet of things (IoT)
 image:
   filename: FedTOP.png
 date: 2023-01-12T06:32:00.000Z
-links: null
+links:
+- name: DOI
+  url: https://arxiv.org/abs/2301.04829
 ---
