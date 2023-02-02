@@ -28,6 +28,14 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: markdown
+    id: service
+    content:
+      title: Academic Service
+      subtitle: ''
+      text: ''
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
