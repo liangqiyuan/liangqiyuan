@@ -34,9 +34,9 @@ sections:
       title: Academic Service
       subtitle: ''
       text: |-
-        [_IEEE MOST 2023_](https://ieeemobility.org/)
+        [_IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) 2023_](https://ieeemobility.org/)
         
-        [_IEEE IOT J_](https://ieee-iotj.org/)
+        [_IEEE Internet of Things Journal_](https://ieee-iotj.org/)
         
         [_IEEE Transactions on Intelligent Vehicles_](https://ieee-itss.org/pub/t-iv/)
     design:
