@@ -19,6 +19,6 @@ image:
   filename: 120alab.png
 date: 2022-08-03T06:32:00.000Z
 links:
-- name: Journal Cover
+- name: ✨ Journal Cover
   url: poster/big_cover-sensors-v22-i15.png
 ---
