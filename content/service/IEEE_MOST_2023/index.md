@@ -7,7 +7,7 @@ authors:
 tags: []
 categories: []
 projects: []
-date: '2019-02-05T00:00:00Z'
+date:
 lastMod:
 image:
   caption: ''
