@@ -33,7 +33,8 @@ sections:
     content:
       title: Academic Service
       subtitle:
-      text: 
+      text: |-
+        Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)
       contact_links:
         - icon: twitter
           icon_pack: fab
