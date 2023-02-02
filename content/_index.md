@@ -33,10 +33,11 @@ sections:
     content:
       title: Academic Service
       subtitle: ''
-      text: 
+      text: ''
+    count: 0
     design:
       columns: '2'
-      view: citation
+      view: compact
   - block: contact
     id: contact
     content:
