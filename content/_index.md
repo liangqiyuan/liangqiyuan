@@ -28,18 +28,13 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: contact
+  - block: markdown
     id: service
     content:
       title: Academic Service
       subtitle:
       text:
       - Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)
-          link: ''
     design:
       columns: '2'
   - block: contact
