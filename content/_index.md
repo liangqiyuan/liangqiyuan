@@ -34,11 +34,11 @@ sections:
       title: Academic Service
       subtitle: ''
       text: |-
-        IEEE MOST 2023
+        [_IEEE MOST 2023_](https://ieeemobility.org/)
         
-        IEEE IOT J
+        [IEEE IOT J](https://ieee-iotj.org/)
         
-        IEEE
+        [IEEE TIV](https://ieee-itss.org/pub/t-iv/)
     design:
       columns: '2'
   - block: contact
