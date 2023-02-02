@@ -28,7 +28,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: service
+  - block: contact
     id: service
     content:
       title: Academic Service
