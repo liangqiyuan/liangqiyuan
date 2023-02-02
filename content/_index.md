@@ -34,11 +34,11 @@ sections:
       title: Academic Service
       subtitle: ''
       text: |-
-        Reviewer of [_IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) 2023_](https://ieeemobility.org/)
+        - Reviewer of [_IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) 2023_](https://ieeemobility.org/)
         
-        Reviewer of [_IEEE Internet of Things Journal_](https://ieee-iotj.org/)
+        - Reviewer of [_IEEE Internet of Things Journal_](https://ieee-iotj.org/)
         
-        Reviewer of [_IEEE Transactions on Intelligent Vehicles_](https://ieee-itss.org/pub/t-iv/)
+        - Reviewer of [_IEEE Transactions on Intelligent Vehicles_](https://ieee-itss.org/pub/t-iv/)
     design:
       columns: '2'
   - block: contact
