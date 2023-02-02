@@ -35,6 +35,10 @@ sections:
       subtitle: ''
       text: |-
         IEEE MOST 2023
+        
+        IEEE IOT J
+        
+        IEEE
     design:
       columns: '2'
   - block: contact
