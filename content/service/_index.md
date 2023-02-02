@@ -1,5 +1,5 @@
 ---
-title: Academic Service
+title: Service
 cms_exclude: true
 
 # View.
