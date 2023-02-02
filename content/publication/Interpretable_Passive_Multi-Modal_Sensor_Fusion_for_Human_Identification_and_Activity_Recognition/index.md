@@ -1,5 +1,5 @@
 ---
-title: ![image](https://user-images.githubusercontent.com/69749856/216244886-9e53cf45-df3b-4ecd-ad63-2dc11250a12a.png) Interpretable Passive Multi-Modal Sensor Fusion for Human Identification
+title: <span style="font-weight: normal; font-size: 70%; vertical-align: top;">(New!)</span> Interpretable Passive Multi-Modal Sensor Fusion for Human Identification
   and Activity Recognition
 publication_types:
   - "2"
