@@ -33,8 +33,7 @@ sections:
     content:
       title: Academic Service
       subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      text:
     design:
       columns: '2'
   - block: contact
