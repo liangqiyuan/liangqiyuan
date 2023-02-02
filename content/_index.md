@@ -34,7 +34,9 @@ sections:
       title: Academic Service
       subtitle: ''
       text: 
-      - Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)
+      cnm
+        cnm
+        - Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)
     design:
       columns: '2'
   - block: contact
