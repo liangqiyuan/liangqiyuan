@@ -28,6 +28,13 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: service
+    content:
+      title: Academic Service
+    design:
+      columns: '2'
+      view: citation
   - block: contact
     id: contact
     content:
