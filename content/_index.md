@@ -28,19 +28,15 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: markdown
-    # id: service
+  - block: collection
+    id: service
     content:
       title: Academic Service
       subtitle: ''
       text: 
-        Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)  
-      text:
-        Reviewer of [_IEEE Internet of Things Journal_](https://ieee-iotj.org/)  
-      text:
-        Reviewer of [_IEEE Transactions on Intelligent Vehicles_](https://ieee-itss.org/pub/t-iv/)  
     design:
       columns: '2'
+      view: citation
   - block: contact
     id: contact
     content:
