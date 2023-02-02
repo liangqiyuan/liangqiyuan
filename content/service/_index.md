@@ -1,6 +1,5 @@
 ---
 title: Academic Service
-cms_exclude: ture
 
 # View.
 #   1 = List
