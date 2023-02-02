@@ -37,7 +37,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: Reviewer of 
+          name: Reviewer of IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) 2023
           link: 'http://ieeemobility.org/'
     design:
       columns: '2'
