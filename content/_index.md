@@ -28,7 +28,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: markdown
+  - block: features
     id: service
     content:
       title: Academic Service
