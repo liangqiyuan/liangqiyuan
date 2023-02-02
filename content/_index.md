@@ -33,7 +33,8 @@ sections:
     content:
       title: Academic Service
       subtitle: ''
-      text:
+      text: |-
+        IEEE MOST 2023
     design:
       columns: '2'
   - block: contact
