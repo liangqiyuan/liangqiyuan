@@ -19,6 +19,6 @@ image:
   filename: 120alab.png
 date: 2022-08-03T06:32:00.000Z
 links:
-- name: ![sparkles](https://fontawesome.com/v5/icons/sparkles?style=regular&s=solid&f=classic) Journal Cover
+- name: ![image](https://user-images.githubusercontent.com/69749856/216244886-9e53cf45-df3b-4ecd-ad63-2dc11250a12a.png) Journal Cover
   url: poster/big_cover-sensors-v22-i15.png
 ---
