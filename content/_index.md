@@ -34,7 +34,8 @@ sections:
       title: Academic Service
       subtitle: ''
       text: 
-      Markup : * Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)
+      Markup : <details>
+                 <p>Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)<p>
     design:
       columns: '2'
   - block: contact
