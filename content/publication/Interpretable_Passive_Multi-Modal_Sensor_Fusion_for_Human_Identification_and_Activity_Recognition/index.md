@@ -1,5 +1,5 @@
 ---
-title: Interpretable Passive Multi-Modal Sensor Fusion for Human Identification
+title: ![image](https://user-images.githubusercontent.com/69749856/216244886-9e53cf45-df3b-4ecd-ad63-2dc11250a12a.png) Interpretable Passive Multi-Modal Sensor Fusion for Human Identification
   and Activity Recognition
 publication_types:
   - "2"
@@ -19,6 +19,6 @@ image:
   filename: 120alab.png
 date: 2022-08-03T06:32:00.000Z
 links:
-- name: ![image](https://user-images.githubusercontent.com/69749856/216244886-9e53cf45-df3b-4ecd-ad63-2dc11250a12a.png) Journal Cover
+- name: Journal Cover
   url: poster/big_cover-sensors-v22-i15.png
 ---
