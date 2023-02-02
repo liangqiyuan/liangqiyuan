@@ -36,9 +36,9 @@ sections:
       text: |-
         [_IEEE MOST 2023_](https://ieeemobility.org/)
         
-        [IEEE IOT J](https://ieee-iotj.org/)
+        [_IEEE IOT J_](https://ieee-iotj.org/)
         
-        [IEEE TIV](https://ieee-itss.org/pub/t-iv/)
+        [_IEEE Transactions on Intelligent Vehicles_](https://ieee-itss.org/pub/t-iv/)
     design:
       columns: '2'
   - block: contact
