@@ -13,6 +13,4 @@ view: 2
 header:
   caption: ''
   image: ''
-  
-- Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)
 ---
