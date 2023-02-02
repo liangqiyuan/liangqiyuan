@@ -29,7 +29,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    # id: service
+    id: service
     content:
       title: Academic Service
       subtitle: ''
