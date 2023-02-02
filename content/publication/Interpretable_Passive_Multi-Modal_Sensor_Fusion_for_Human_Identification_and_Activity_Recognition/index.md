@@ -1,5 +1,5 @@
 ---
-title: <span style="font-weight: normal; font-size: 70%; vertical-align: top;">(New!)</span> Interpretable Passive Multi-Modal Sensor Fusion for Human Identification
+title: <sup>(New!)<sup> Interpretable Passive Multi-Modal Sensor Fusion for Human Identification
   and Activity Recognition
 publication_types:
   - "2"
