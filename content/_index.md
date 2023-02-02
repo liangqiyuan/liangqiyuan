@@ -37,8 +37,8 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: Reviewer of IEEE MOST 2023
-          link: 'http://ieeemobility.org/'
+          name: Reviewer of [_IEEE MOST 2023_](http://ieeemobility.org/)
+          link: ''
     design:
       columns: '2'
   - block: contact
