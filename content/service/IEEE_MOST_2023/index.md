@@ -7,4 +7,7 @@ tags:
 categories: 
 projects: 
 date: '2019-02-05T00:00:00Z'
+image:
+  caption: ''
+  focal_point: ''
 ---
