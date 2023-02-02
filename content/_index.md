@@ -5,7 +5,7 @@ date: 2022-11-30
 type: landing
 
 sections:
-  - block: hero
+  - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -33,7 +33,8 @@ sections:
     content:
       title: Academic Service
       subtitle: ''
-      text: ''
+      text: |-
+        {{< gallery album="demo" >}}
     design:
       columns: '2'
   - block: contact
