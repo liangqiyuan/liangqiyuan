@@ -16,5 +16,6 @@ image:
   filename: prf.png
   caption: ""
   focal_point: Smart
+  preview_only: false
 url_code: ""
 ---
