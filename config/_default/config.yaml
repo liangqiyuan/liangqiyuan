@@ -47,8 +47,8 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter:
-  quality: 75
+  resampleFilter: lanczos
+  quality: 800x
   anchor: smart
 timeout: 600000
 taxonomies:
