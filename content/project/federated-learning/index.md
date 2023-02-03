@@ -1,6 +1,6 @@
 ---
 title: Federated Learning
-date: 2023-02-03T04:16:06.646Z
+date: 2023-02-03T04:46:44.527Z
 summary: ""
 tags:
   - purdue
@@ -10,3 +10,4 @@ image:
   filename: p2p-fl.png
   preview_only: false
 ---
+Federated Learning
