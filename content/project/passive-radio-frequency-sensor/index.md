@@ -1,14 +1,14 @@
 ---
+draft: false
+url_pdf: ""
 title: Passive Radio Frequency Sensor
 date: 2023-02-03T04:14:11.018Z
-draft: false
-featured: false
+summary: ""
 authors: []
+url_video: ""
+featured: false
 tags:
   - oakland
-url_pdf: ""
-summary: ""
-url_video: ""
 external_link: ""
 url_slides: ""
 links: []
@@ -19,3 +19,4 @@ image:
   preview_only: false
 url_code: ""
 ---
+Passive Radio Frequency Sensor
