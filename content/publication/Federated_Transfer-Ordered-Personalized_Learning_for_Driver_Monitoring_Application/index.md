@@ -33,4 +33,7 @@ date: 2023-01-12T06:32:00.000Z
 links:
 - name: DOI
   url: https://arxiv.org/abs/2301.04829
+
+projects:
+  - federated-learning
 ---
