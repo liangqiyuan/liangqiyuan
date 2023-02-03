@@ -30,4 +30,7 @@ abstract: This paper presents a cost-effective pressure sensing system for
 image:
   filename: system-diagram.png
 date: 2021-12-03T08:35:06.551Z
+
+projects:
+  - pressure-sensor-array
 ---
