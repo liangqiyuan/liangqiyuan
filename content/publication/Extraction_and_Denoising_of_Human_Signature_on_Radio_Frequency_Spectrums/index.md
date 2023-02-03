@@ -24,7 +24,7 @@ abstract: This paper proposes an innovative machinelearning-based method to
 url_pdf: null
 title: Extraction and Denoising of Human Signature on Radio Frequency Spectrums
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Shiyu Yang
   - admin
@@ -32,10 +32,9 @@ authors:
 doi: ""
 publication: _IEEE 41st International Conference on Consumer Electronics (ICCE)_
 tags: []
+projects:
+  - passive-radio-frequency-sensor
 date: 2023-01-06T23:59:19.278Z
 url_poster: poster/Poster Extraction and Denoising of Human Signature on Radio
   Frequency Spectrums.pdf
-
-projects:
-  - passive-radio-frequency-sensor
 ---
