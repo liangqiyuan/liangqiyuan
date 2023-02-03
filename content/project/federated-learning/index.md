@@ -8,4 +8,5 @@ image:
   caption: ""
   focal_point: Smart
   filename: p2p-fl.png
+  preview_only: false
 ---
