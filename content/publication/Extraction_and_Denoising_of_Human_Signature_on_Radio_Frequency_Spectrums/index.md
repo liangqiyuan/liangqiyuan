@@ -35,4 +35,7 @@ tags: []
 date: 2023-01-06T23:59:19.278Z
 url_poster: poster/Poster Extraction and Denoising of Human Signature on Radio
   Frequency Spectrums.pdf
+
+projects:
+  - passive-radio-frequency-sensor
 ---
