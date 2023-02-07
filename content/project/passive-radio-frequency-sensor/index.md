@@ -13,7 +13,7 @@ external_link: ""
 url_slides: ""
 links: []
 image:
-  filename: prf.png
+  filename: prf.jpg
   caption: ""
   focal_point: Smart
   preview_only: false
