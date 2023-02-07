@@ -32,9 +32,9 @@ sections:
         - name: All
           tag: '*'
         - name: Oakland University
-          tag: oakland
+          tag: Oakland University
         - name: Purdue University
-          tag: purdue
+          tag: Purdue University
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
