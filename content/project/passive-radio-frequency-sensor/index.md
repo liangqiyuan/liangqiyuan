@@ -8,7 +8,7 @@ authors: []
 url_video: ""
 featured: false
 tags:
-  - oakland
+  - Oakland University
 external_link: ""
 url_slides: ""
 links: []
