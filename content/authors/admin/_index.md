@@ -1,9 +1,6 @@
 ---
 title: Liangqi Yuan
 role: PhD Student
-status:
-  icon: 🀄
-  
 avatar_filename: Liangqi Yuan.jpg
 interests:
   - Artificial Intelligence
@@ -12,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:yuan383@purdue.edu
+    link: mailto:liangqiy@purdue.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/liangqi-yuan-0111311a9/
@@ -34,6 +31,8 @@ education:
       institution: Beijing Information Science & Technology University
       year: 2020
 superuser: true
+status:
+  icon: 🀄
 last_name: Yuan
 highlight_name: true
 first_name: Liangqi
