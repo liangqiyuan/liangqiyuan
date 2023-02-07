@@ -7,6 +7,7 @@ authors:
   - admin
 tags:
   - Purdue University
+categories: []
 image:
   filename: p2p-fl.jpg
   focal_point: Smart
