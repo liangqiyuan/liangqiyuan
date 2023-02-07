@@ -6,7 +6,7 @@ featured: false
 authors:
   - admin
 tags:
-  - purdue
+  - Purdue University
 image:
   filename: p2p-fl.jpg
   focal_point: Smart
