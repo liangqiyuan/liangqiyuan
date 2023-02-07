@@ -5,7 +5,7 @@ draft: false
 featured: false
 authors: []
 tags:
-  - oakland
+  - Oakland University
 image:
   filename: spem.png
   focal_point: Smart
