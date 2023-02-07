@@ -8,7 +8,7 @@ categories: []
 image:
   caption: ""
   focal_point: Smart
-  filename: p2p-fl.png
+  filename: p2p-fl.jpg
   preview_only: false
 ---
 Federated Learning
