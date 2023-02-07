@@ -22,12 +22,11 @@ url_pdf: https://liangqiyuan.github.io/content/publication/Smart_Cushion_Based_o
 doi: 10.1109/SENSORS47087.2021.9639463
 featured: false
 tags: []
+projects:
+  - pressure-sensor-array
 image:
   filename: sitting-posture.png
   focal_point: ""
 date: 2021-10-01T00:00:00.000Z
 url_poster: poster/liangqi-yuan-paper-1247-poster.jpg
-
-projects:
-  - pressure-sensor-array
 ---
