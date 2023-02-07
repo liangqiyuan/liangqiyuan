@@ -7,7 +7,7 @@ authors: []
 tags:
   - Oakland University
 image:
-  filename: spem.png
+  filename: spem.jpg
   focal_point: Smart
   preview_only: false
 ---
