@@ -33,6 +33,7 @@ sections:
           date_end: ''
           description: |2-
               Projects include:
+              
               * Federated Learning
         - title: Master of Science
           company: Oakland University
@@ -43,6 +44,7 @@ sections:
           date_end: '2022-04-01'
           description: |2-
               Projects include:
+              
               * Passive Radio Frequency
               * Pressure Sensor Array
         - title: Exchange Student
