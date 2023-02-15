@@ -24,13 +24,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
         - title: PhD Student
           company: Purdue University
           company_url: 'https://www.purdue.edu/'
@@ -40,7 +33,6 @@ sections:
           date_end: ''
           description: |2-
               Projects include:
-              
               * Federated Learning
         - title: Master of Science
           company: Oakland University
@@ -51,7 +43,6 @@ sections:
           date_end: '2022-04-01'
           description: |2-
               Projects include:
-              
               * Passive Radio Frequency
               * Pressure Sensor Array
         - title: Exchange Student
@@ -68,8 +59,8 @@ sections:
           location: Beijing, China
           date_start: '2016-09-01'
           date_end: '2020-07-01'
-        design:
-          columns: '2'
+    design:
+      columns: '2'
   - block: portfolio
     id: projects
     content:
