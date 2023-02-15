@@ -31,6 +31,7 @@ education:
       institution: Beijing Information Science & Technology University
       year: 2020
 superuser: true
+user_groups: []
 status:
   icon: 🀄
 last_name: Yuan
