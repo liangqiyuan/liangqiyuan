@@ -27,7 +27,7 @@ sections:
         - title: PhD Student
           company: Purdue University
           company_url: 'https://www.purdue.edu/'
-          company_logo: org-gc
+          company_logo: pu
           location: West Lafayette, IN
           date_start: '2022-08-01'
           date_end: ''
@@ -37,7 +37,7 @@ sections:
         - title: Master of Science
           company: Oakland University
           company_url: 'https://www.oakland.edu/'
-          company_logo: org-x
+          company_logo: ou
           location: Rochester, MI
           date_start: '2020-09-01'
           date_end: '2022-04-01'
@@ -48,14 +48,14 @@ sections:
         - title: Exchange Student
           company: Oakland University
           company_url: 'https://www.oakland.edu/'
-          company_logo: org-x
+          company_logo: ou
           location: Rochester, MI
           date_start: '2019-09-01'
           date_end: '2020-08-01'
         - title: Bachelor of Engineering
           company: Beijing Information Science & Technology University
           company_url: 'https://english.bistu.edu.cn/'
-          company_logo: org-x
+          company_logo: ou
           location: Beijing, China
           date_start: '2016-09-01'
           date_end: '2020-07-01'
