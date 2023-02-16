@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Student in in Electrical and Computer Engineering
+        - title: Ph.D. Student in Electrical and Computer Engineering
           company: Purdue University
           company_url: 'https://www.purdue.edu/'
           company_logo: pu
