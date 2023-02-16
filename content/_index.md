@@ -55,7 +55,7 @@ sections:
         - title: Bachelor of Engineering
           company: Beijing Information Science & Technology University
           company_url: 'https://english.bistu.edu.cn/'
-          company_logo: ou
+          company_logo: bistu
           location: Beijing, China
           date_start: '2016-09-01'
           date_end: '2020-07-01'
