@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. Student in Electrical and Computer Engineering
+        - title: Ph.D. in Electrical and Computer Engineering
           company: Purdue University
           company_url: 'https://www.purdue.edu/'
           company_logo: pu
@@ -45,14 +45,14 @@ sections:
               Projects include:
               * Passive Radio Frequency
               * Pressure Sensor Array
-        - title: Exchange Student
+        - title: Visiting Student
           company: Oakland University
           company_url: 'https://www.oakland.edu/'
           company_logo: ou
           location: Rochester, MI
           date_start: '2019-09-01'
           date_end: '2020-08-01'
-        - title: B.E. in Photo-electronic Information Science and Engineering
+        - title: B.E. in Photo-electronic Engineering
           company: Beijing Information Science & Technology University
           company_url: 'https://english.bistu.edu.cn/'
           company_logo: bistu
