@@ -21,7 +21,8 @@ abstract: This paper proposes an innovative machinelearning-based method to
   synthesized spectrum can be identified by the support vector machine
   classifier with 100% accuracy while the physically shielded spectrum yields
   93.5% accuracy.
-url_pdf: null
+image:
+  filename: framework.png
 title: Extraction and Denoising of Human Signature on Radio Frequency Spectrums
 publication_types:
   - "1"
