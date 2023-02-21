@@ -30,6 +30,7 @@ authors:
   - admin
   - Jia Li
 doi: ""
+doi: 10.1109/ICCE56470.2023.10043377
 publication: _IEEE 41st International Conference on Consumer Electronics (ICCE)_
 tags: []
 projects:
