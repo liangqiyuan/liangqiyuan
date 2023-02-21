@@ -1,5 +1,5 @@
 ---
-abstract: This paper proposes an innovative machinelearning-based method to
+abstract: This paper proposes an innovative machine-learning-based method to
   extract compact, accurate, and adequate human radio frequency signature in
   residential environment. Our research created a shielded environment by using
   electromagnetic fields blocking material to attenuate strong signals in the
