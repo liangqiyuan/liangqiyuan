@@ -111,13 +111,11 @@ sections:
     content:
       title: Academic Service
       subtitle: ''
-      text: 
-        |-
+      text: |-
         - Reviewer of [_IEEE Sensors Journal_](https://ieee-sensors.org/sensors-journal/)
         - Reviewer of [_IEEE Internet of Things Journal_](https://ieee-iotj.org/)
         - Reviewer of [_IEEE Transactions on Intelligent Vehicles_](https://ieee-itss.org/pub/t-iv/)
-        <p>&nbsp;</p>
-        |-
+        <p></p>
         - Reviewer of [_The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), 2023_](https://ieeemobility.org/)
         - Reviewer of [_Proceedings of the 6th International Conference on Computer Science and Application Engineering (CSAE), 2022_](https://dl.acm.org/conference/csae)
     design:
