@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:yuan383@purdue.edu
+    link: mailto:liangqiy@purdue.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/liangqi-yuan-0111311a9/
