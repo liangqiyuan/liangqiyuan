@@ -128,7 +128,7 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: yuan383@purdue.edu
+      email: liangqiy@purdue.edu
       address:
         street: Hampton Hall 2155, 550 Stadium Mall Drive
         city: West Lafayette
