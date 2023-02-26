@@ -5,7 +5,7 @@ date: 2022-11-30
 type: landing
 
 sections:
-  # - block: v1/about
+  - block: v1/about
   - block: about.avatar
     id: about
     content:
