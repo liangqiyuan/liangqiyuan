@@ -3,9 +3,9 @@ title: Liangqi Yuan
 role: PhD Student
 avatar_filename: Liangqi Yuan.jpg
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Internet of Things
+  - Machine Learning
+  - Sensors
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,15 +21,18 @@ organizations:
     url: https://www.purdue.edu/
 education:
   courses:
-    - course: PhD in Electrical and Computer Engineering
+    - course: Ph.D. in Electrical and Computer Engineering
       institution: Purdue University
       year: 2027
-    - course: MSc in Electrical and Computer Engineering
+    - course: M.S. in Electrical and Computer Engineering
       institution: Oakland University
-      year: 2022
-    - course: BSc in Photo-electronic Information Science and Engineering
+      year: September 2020 – April 2022 
+    - course: Visiting Student
+      institution: Oakland University
+      year: September 2019 – August 2020 
+    - course: B.E. in Photo-electronic Engineering
       institution: Beijing Information Science & Technology University
-      year: 2020
+      year: September 2016 – July 2020 
 superuser: true
 user_groups: []
 status:
