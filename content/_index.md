@@ -13,7 +13,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: experience
+<!--   - block: experience
     content:
       title: Education
       # Date format for experience
@@ -61,7 +61,7 @@ sections:
           date_start: '2016-09-01'
           date_end: '2020-07-01'
     design:
-      columns: '2'
+      columns: '2' -->
   - block: portfolio
     id: projects
     content:
