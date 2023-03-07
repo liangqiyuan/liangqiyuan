@@ -114,6 +114,7 @@ sections:
       subtitle: ''
       text: |-
         ### Journal Reviewer
+        - [_IEEE Access_](https://ieeeaccess.ieee.org/)
         - [_IEEE Sensors Journal_](https://ieee-sensors.org/sensors-journal/)
         - [_IEEE Internet of Things Journal_](https://ieee-iotj.org/)
         - [_IEEE Transactions on Intelligent Vehicles_](https://ieee-itss.org/pub/t-iv/)  
