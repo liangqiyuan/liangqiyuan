@@ -1,32 +1,32 @@
 ---
-title: 🆕 Federated Transfer-Ordered-Personalized Learning for Driver Monitoring
-  Application
+title: 🆕 A Survey of Federated Learning for Connected and Automated Vehicles
 publication_types:
   - "3"
 authors:
+  - Vishnu Pandi Chellapandi
   - admin
-  - Su Lu
+  - Stanislaw H Zak
   - Ziran Wang
 doi: ""
 publication: _arXiv_
 publication_short: ""
-abstract: Federated learning (FL) shines through in the internet of things (IoT)
-  with its ability to realize collaborative learning and improve learning
-  efficiency by sharing client model parameters trained on local data. Although
-  FL has been successfully applied to various domains, including driver
-  monitoring application (DMA) on the internet of vehicles (IoV), its usages
-  still face some open issues, such as data and system heterogeneity,
-  large-scale parallelism communication resources, malicious attacks, and data
-  poisoning. This paper proposes a federated transfer-ordered-personalized
-  learning (FedTOP) framework to address the above problems and test on two
-  real-world datasets with and without system heterogeneity. The performance of
-  the three extensions, transfer, ordered, and personalized, is compared by an
-  ablation study and achieves 92.32% and 95.96% accuracy on the test clients of
-  two datasets, respectively. Compared to the baseline, there is a 462%
-  improvement in accuracy and a 37.46% reduction in communication resource
-  consumption. The results demonstrate that the proposed FedTOP can be used as a
-  highly accurate, streamlined, privacy-preserving, cybersecurity-oriented,
-  personalized framework for DMA.
+abstract: Connected and Automated Vehicles (CAVs) are one of the emerging
+  technologies in the automotive domain that has the potential to alleviate the
+  issues of accidents, traffic congestion, and pollutant emissions, leading to a
+  safe, efficient, and sustainable transportation system. Machine learning-based
+  methods are widely used in CAVs for crucial tasks like perception, motion
+  planning, and motion control, where machine learning models in CAVs are solely
+  trained using the local vehicle data, and the performance is not certain when
+  exposed to new environments or unseen conditions. Federated learning (FL) is
+  an effective solution for CAVs that enables a collaborative model development
+  with multiple vehicles in a distributed learning framework. FL enables CAVs to
+  learn from a wide range of driving environments and improve their overall
+  performance while ensuring the privacy and security of local vehicle data. In
+  this paper, we review the progress accomplished by researchers in applying FL
+  to CAVs. A broader view of the various data modalities and algorithms that
+  have been implemented on CAVs is provided. Specific applications of FL are
+  reviewed in detail, and an analysis of the challenges and future scope of
+  research are presented.
 projects:
   - federated-learning
 image:
