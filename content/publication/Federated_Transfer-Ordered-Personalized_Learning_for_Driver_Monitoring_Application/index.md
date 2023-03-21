@@ -7,7 +7,7 @@ authors:
   - admin
   - Su Lu
   - Ziran Wang
-doi: ''
+doi: ""
 publication: _arXiv_
 publication_short: ""
 abstract: Federated learning (FL) shines through in the internet of things (IoT)
@@ -27,13 +27,12 @@ abstract: Federated learning (FL) shines through in the internet of things (IoT)
   consumption. The results demonstrate that the proposed FedTOP can be used as a
   highly accurate, streamlined, privacy-preserving, cybersecurity-oriented,
   personalized framework for DMA.
-image:
-  filename: FedTOP.png
-date: 2023-01-12T06:32:00.000Z
-links:
-- name: DOI
-  url: https://arxiv.org/abs/2301.04829
-
 projects:
   - federated-learning
+image:
+  filename: fedtop1.png
+date: 2023-01-12T06:32:00.000Z
+links:
+  - name: DOI
+    url: https://arxiv.org/abs/2301.04829
 ---
