@@ -30,7 +30,7 @@ abstract: Connected and Automated Vehicles (CAVs) are one of the emerging
 projects:
   - federated-learning
 image:
-  filename: FedTOP.png
+  filename: fl_cav_r1.png
 date: 2023-03-21T14:31:11.488Z
 links:
   - name: DOI
