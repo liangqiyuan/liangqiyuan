@@ -1,6 +1,6 @@
 ---
 title: Federated Learning
-subtitle: "**How to make each client happy? Is a server necessary?**"
+subtitle: "**How to make all clients happy? Is a server necessary?**"
 date: 2023-02-07T22:44:09.204Z
 draft: false
 featured: false
