@@ -114,14 +114,14 @@ sections:
       subtitle: ''
       text: |-
         ### Journal Reviewer
-        - [_IEEE Transactions on Intelligent Transportation Systems_](https://ieee-itss.org/pub/t-its/)
-        - [_IEEE Access_](https://ieeeaccess.ieee.org/)
-        - [_IEEE Sensors Journal_](https://ieee-sensors.org/sensors-journal/)
-        - [_IEEE Internet of Things Journal_](https://ieee-iotj.org/)
-        - [_IEEE Transactions on Intelligent Vehicles_](https://ieee-itss.org/pub/t-iv/)  
+        - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/)
+        - [IEEE Access](https://ieeeaccess.ieee.org/)
+        - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/)
+        - [IEEE Internet of Things Journal](https://ieee-iotj.org/)
+        - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/)  
         ### Conference Reviewer
-        - [_The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), 2023_](https://ieeemobility.org/)
-        - [_Proceedings of the 6th International Conference on Computer Science and Application Engineering (CSAE), 2022_](https://dl.acm.org/conference/csae)
+        - [The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), 2023](https://ieeemobility.org/)
+        - [Proceedings of the 6th International Conference on Computer Science and Application Engineering (CSAE), 2022](https://dl.acm.org/conference/csae)
     design:
       columns: '2'
   - block: contact
