@@ -121,7 +121,7 @@ sections:
         - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/)  
         ### Conference Reviewer
         - [The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), 2023](https://ieeemobility.org/)
-        - [Proceedings of the 6th International Conference on Computer Science and Application Engineering (CSAE), 2022](https://dl.acm.org/conference/csae)
+        - [The 6th International Conference on Computer Science and Application Engineering (CSAE), 2022](https://dl.acm.org/conference/csae)
     design:
       columns: '2'
   - block: contact
