@@ -23,16 +23,14 @@ authors:
   - admin
   - Houlin Chen
   - Robert Ewing
-  - Erik Blasch
   - Jia Li
 doi: ""
 publication: _Dynamic Data Driven Applications Systems (DDDAS)_
 tags: []
+projects:
+  - passive-radio-frequency-sensor
 image:
   filename: system-diagram.png
 date: 2022-08-13T00:00:00.000Z
 url_poster: null
-
-projects:
-  - passive-radio-frequency-sensor
 ---
