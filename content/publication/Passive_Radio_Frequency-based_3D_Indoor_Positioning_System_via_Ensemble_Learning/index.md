@@ -24,7 +24,7 @@ authors:
   - Houlin Chen
   - Robert Ewing
   - Jia Li
-doi: 2304.06513
+doi: ""
 publication: _Dynamic Data Driven Applications Systems (DDDAS)_
 tags: []
 projects:
@@ -33,4 +33,7 @@ image:
   filename: system-diagram.png
 date: 2022-08-13T00:00:00.000Z
 url_poster: null
+links:
+  - name: DOI
+    url: https://arxiv.org/abs/2304.06513
 ---
