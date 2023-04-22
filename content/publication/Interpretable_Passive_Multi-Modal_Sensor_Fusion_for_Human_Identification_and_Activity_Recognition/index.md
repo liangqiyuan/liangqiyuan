@@ -20,7 +20,7 @@ image:
 date: 2022-08-03T06:32:00.000Z
 links:
 - name: ⭐ Journal Cover
-  url: poster/big_cover-sensors-v22-i15.png
+  url: https://www.mdpi.com/1424-8220/22/15
 
 projects:
   - passive-radio-frequency-sensor
