@@ -1,5 +1,5 @@
 ---
-title: 🆕 "M²DAR&#58; Multi-View Multi-Scale Driver Action Recognition with Vision Transformer"
+title: 🆕 M²DAR&#58; Multi-View Multi-Scale Driver Action Recognition with Vision Transformer
 publication_types:
   - "3"
 authors:
