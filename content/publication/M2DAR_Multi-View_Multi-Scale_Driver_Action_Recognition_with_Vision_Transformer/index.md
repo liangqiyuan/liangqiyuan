@@ -21,5 +21,5 @@ image:
 date: 2023-05-13T14:31:11.488Z
 links:
   - name: DOI
-    url: http://export.arxiv.org/abs/2305.08877
+    url: https://arxiv.org/abs/2305.08877
 ---
