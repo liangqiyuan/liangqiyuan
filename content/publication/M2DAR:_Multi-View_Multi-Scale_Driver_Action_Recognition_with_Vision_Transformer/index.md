@@ -1,5 +1,5 @@
 ---
-title: 🆕 M^2DAR: Multi-View Multi-Scale Driver Action Recognition with Vision Transformer
+title: 🆕 M$^2$DAR: Multi-View Multi-Scale Driver Action Recognition with Vision Transformer
 publication_types:
   - "3"
 authors:
