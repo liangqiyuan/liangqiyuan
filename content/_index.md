@@ -113,7 +113,7 @@ sections:
       title: Presentations
       filters:
         folders:
-          - presentations
+          - presentation
     design:
       columns: '2'
       view: compact
