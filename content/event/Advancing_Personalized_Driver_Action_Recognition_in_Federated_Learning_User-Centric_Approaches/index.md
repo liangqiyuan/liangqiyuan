@@ -18,7 +18,7 @@ abstract: 'In recent years, federated learning has garnered widespread attention
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-06-04T17:40:00Z'
-date_end: '2023-06-04T20:40:00Z'
+# date_end: '2023-06-04T20:40:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
