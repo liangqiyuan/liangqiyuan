@@ -28,7 +28,7 @@ authors: admin
 tags: []
 
 # Is this a featured talk? (true/false)
-# featured: true
+featured: true
 
 image:
   caption: ''
