@@ -22,13 +22,13 @@ date: '2023-06-04T15:40:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-05-18T00:00:00Z'
 
-authors: []
+authors: admin
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
