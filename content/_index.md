@@ -125,6 +125,16 @@ sections:
         - [The 6th International Conference on Computer Science and Application Engineering (CSAE 2022)](http://www.csaeconf.org/2022/)
     design:
       columns: '2'
+  - block: collection
+    id: presentations
+    content:
+      title: Presentations
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
