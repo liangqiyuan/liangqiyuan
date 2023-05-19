@@ -131,7 +131,7 @@ sections:
       title: Presentations
       filters:
         folders:
-          - event
+          - presentations
     design:
       columns: '2'
       view: compact
