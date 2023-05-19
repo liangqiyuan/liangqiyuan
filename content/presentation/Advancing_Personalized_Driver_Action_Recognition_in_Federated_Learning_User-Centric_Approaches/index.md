@@ -12,7 +12,7 @@ address:
   postcode: '99501'
   country: United States
 
-# summary: An example talk using Wowchemy's Markdown slides feature.
+summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: 'In recent years, federated learning has garnered widespread attention due to its ability to train machine learning models across distributed devices while ensuring data privacy. However, little attention has been paid to user needs and personalization in this context, particularly in the field of driver action recognition. In this presentation, I will introduce the challenges of federated learning in driver action recognition and the rationale behind the poor performance of non-user-centric frameworks. Additionally, I will present our efforts to advance the development of personalized driver action recognition, which include personalized and peer-to-peer federated learning frameworks. Through this presentation, my objective is to highlight the potential of personalized driver action recognition and advocate for the deployment of federated learning in practical connected and automated vehicles.'
 
 # Talk start and end times.
@@ -22,16 +22,16 @@ date: '2023-06-04T13:00:00Z'
 # all_day: true
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
-authors: admin
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
