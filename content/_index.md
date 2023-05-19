@@ -114,7 +114,6 @@ sections:
       filters:
         folders:
           - presentation
-        exclude_featured: true
     design:
       columns: '2'
       view: compact
