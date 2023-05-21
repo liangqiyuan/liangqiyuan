@@ -2,13 +2,13 @@
 title: 🆕 Federated Transfer-Ordered-Personalized Learning for Driver Monitoring
   Application
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Su Lu
   - Ziran Wang
 doi: ""
-publication: _arXiv_
+publication: _IEEE Internet of Things Journal_
 publication_short: ""
 abstract: Federated learning (FL) shines through in the internet of things (IoT)
   with its ability to realize collaborative learning and improve learning
