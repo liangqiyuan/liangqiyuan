@@ -30,7 +30,7 @@ abstract: Federated learning (FL) shines through in the internet of things (IoT)
 projects:
   - federated-learning
 image:
-  filename: fedtop1.png
+  filename: System_Diagram.png
 date: 2023-01-12T06:32:00.000Z
 links:
   - name: DOI
