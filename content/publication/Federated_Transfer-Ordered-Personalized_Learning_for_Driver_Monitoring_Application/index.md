@@ -31,7 +31,7 @@ projects:
   - federated-learning
 image:
   filename: System_Diagram.png
-date: 2023-01-12T06:32:00.000Z
+date: 2023-05-20T06:32:00.000Z
 links:
   - name: DOI
     url: https://arxiv.org/abs/2301.04829
