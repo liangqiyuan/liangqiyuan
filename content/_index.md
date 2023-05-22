@@ -21,10 +21,14 @@ sections:
       text: |-
         - May 2023: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
         - Apr 2023: Two papers have been accepted to the [7th AI City Challenge Workshop at CVPR 2023](https://www.aicitychallenge.org/).
-        - Mar 2023: One papers has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
-        - Nov 2022: One papers has been accepted to [ICCE 2023](https://icce.org/2023/).
+        - Mar 2023: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
+        - Nov 2022: One paper has been accepted to [ICCE 2023](https://icce.org/2023/).
+        - Aug 2022: One paper has been accepted to [DDDAS 2022](http://1dddas.org/dddas2022). Our paper has been selected as an [issue cover](https://www.mdpi.com/1424-8220/22/15).
+        - Jul 2022: One paper has been accepted to [Sensors](https://www.mdpi.com/journal/sensors).
+        - Nov 2021: One paper has been accepted to [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/).
+        - Aug 2021: One paper has been accepted to [IEEE Sensors 2021](https://2021.ieee-sensorsconference.org/).
     design:
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: projects
     content:
