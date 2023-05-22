@@ -7,7 +7,7 @@ authors:
   - admin
   - Su Lu
   - Ziran Wang
-  _IEEE Internet of Things Journal_
+_IEEE Internet of Things Journal_
 location: Wowchemy HQ
 doi: ""
 publication: _IEEE Internet of Things Journal_
