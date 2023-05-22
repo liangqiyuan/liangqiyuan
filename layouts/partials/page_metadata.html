@@ -21,10 +21,10 @@
       {{ $page.Params.publication | markdownify }}
     {{ end }}
   </span>
+  <span class="middot-divider"></span>
   {{ end }}
   
   {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}
-  <span class="middot-divider"></span>
   <span class="article-date">
     {{ $date := $page.Lastmod | time.Format site.Params.locale.date_format }}
     {{ if eq $page.Type "publication" }}
