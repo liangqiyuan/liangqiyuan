@@ -62,7 +62,7 @@
         {{ partial "page_metadata_authors" $item }}
       </div>
       {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+        {{ partial "page_metadata" (dict "is_list" 1 "page" $item) }}
       {{ end }}
     </div>
 
