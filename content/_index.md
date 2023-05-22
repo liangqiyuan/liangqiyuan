@@ -93,7 +93,6 @@ sections:
       flip_alt_rows: false
   - block: collection
     id: publications
-    show_authors_only: false
     content:
       title: Publications
       text: |-
