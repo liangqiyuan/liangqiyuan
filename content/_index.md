@@ -19,10 +19,10 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        - [May 20, 2023] One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/)!
-        - [Apr 13, 2023] Two papers have been accepted to the [7th AI City Challenge Workshop at CVPR 2023](https://www.aicitychallenge.org/)!
-        - [Mar 25, 2023] One papers has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/)!
-        - [Nov 04, 2022] One papers has been accepted to [ICCE 2023](https://icce.org/2023/)!
+        - May 2023: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
+        - Apr 2023: Two papers have been accepted to the [7th AI City Challenge Workshop at CVPR 2023](https://www.aicitychallenge.org/).
+        - Mar 2023: One papers has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
+        - Nov 2022: One papers has been accepted to [ICCE 2023](https://icce.org/2023/).
     design:
       columns: '2'
   - block: portfolio
