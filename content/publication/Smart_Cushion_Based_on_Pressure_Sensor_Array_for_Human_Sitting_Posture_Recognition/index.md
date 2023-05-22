@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Jia Li
-publication: _IEEE Sensors Conference_
+publication: _IEEE Sensors 2021_
 abstract: A smart cushion based on a pressure sensor array is designed and
   manufactured to recognize human sitting posture. The smart cushion collects
   pressure images for convolutional neural network training to recognize 5 human
