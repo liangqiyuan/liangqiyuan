@@ -13,55 +13,18 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  # - block: experience
-  #   content:
-  #     title: Education
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Ph.D. in Electrical and Computer Engineering
-  #         company: Purdue University
-  #         company_url: 'https://www.purdue.edu/'
-  #         company_logo: pu
-  #         location: West Lafayette, IN
-  #         date_start: '2022-08-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Projects include:
-  #             * Federated Learning
-  #       - title: M.S. in Electrical and Computer Engineering
-  #         company: Oakland University
-  #         company_url: 'https://www.oakland.edu/'
-  #         company_logo: ou
-  #         location: Rochester, MI
-  #         date_start: '2020-09-01'
-  #         date_end: '2022-04-01'
-  #         description: |2-
-  #             Projects include:
-  #             * Passive Radio Frequency
-  #             * Pressure Sensor Array
-  #       - title: Visiting Student
-  #         company: Oakland University
-  #         company_url: 'https://www.oakland.edu/'
-  #         company_logo: ou
-  #         location: Rochester, MI
-  #         date_start: '2019-09-01'
-  #         date_end: '2020-08-01'
-  #       - title: B.E. in Photo-electronic Engineering
-  #         company: Beijing Information Science & Technology University
-  #         company_url: 'https://english.bistu.edu.cn/'
-  #         company_logo: bistu
-  #         location: Beijing, China
-  #         date_start: '2016-09-01'
-  #         date_end: '2020-07-01'
-  #   design:
-  #     columns: '2'
+  - block: markdown
+    id: news
+    content:
+      title: News
+      subtitle: ''
+      text: |-
+        - [May 20, 2023] One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/)!
+        - [Apr 13, 2023] Two papers have been accepted to the [7th AI City Challenge Workshop at CVPR 2023](https://www.aicitychallenge.org/)!
+        - [Mar 25, 2023] One papers has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/)!
+        - [Nov 04, 2022] One papers has been accepted to [ICCE 2023](https://icce.org/2023/)!
+    design:
+      columns: '2'
   - block: portfolio
     id: projects
     content:
