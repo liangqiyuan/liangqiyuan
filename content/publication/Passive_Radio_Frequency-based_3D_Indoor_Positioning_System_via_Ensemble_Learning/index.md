@@ -31,7 +31,7 @@ projects:
   - passive-radio-frequency-sensor
 image:
   filename: system-diagram.png
-date: 2022-08-13T00:00:00.000Z
+date: 2022-10-06T00:00:00.000Z
 url_poster: null
 links:
   - name: DOI
