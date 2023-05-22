@@ -20,7 +20,7 @@ sections:
       subtitle: ''
       text: |-
         - May 2023: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
-        - Apr 2023: Two papers have been accepted to the [7th AI City Challenge Workshop at CVPR 2023](https://www.aicitychallenge.org/). I am honored to have been invited as a speaker at [IEEE IV 2023 Workshop](https://iot-in-its.github.io/iv2023) to present my work in federated learning.
+        - Apr 2023: Two papers have been accepted to the [7th AI City Challenge Workshop at CVPR 2023](https://www.aicitychallenge.org/). I am honored to have been invited as a speaker at [IV 2023 Workshop](https://iot-in-its.github.io/iv2023) to present my work in federated learning.
         - Mar 2023: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
         - Nov 2022: One paper has been accepted to [ICCE 2023](https://icce.org/2023/).
         - Aug 2022: One paper has been accepted to [DDDAS 2022](http://1dddas.org/dddas2022). Our paper has been selected as an [issue cover](https://www.mdpi.com/1424-8220/22/15).
