@@ -7,7 +7,7 @@ authors:
   - admin
   - Su Lu
   - Ziran Wang
-doi: ""
+doi: 10.1109/JIOT.2023.3279273
 publication: _IEEE Internet of Things Journal_
 publication_short: ""
 abstract: Federated learning (FL) shines through in the internet of things (IoT)
@@ -32,7 +32,7 @@ projects:
 image:
   filename: System_Diagram.png
 date: 2023-05-20T06:32:00.000Z
-links:
-  - name: DOI
-    url: https://arxiv.org/abs/2301.04829
+# links:
+#   - name: DOI
+#     url: https://arxiv.org/abs/2301.04829
 ---
