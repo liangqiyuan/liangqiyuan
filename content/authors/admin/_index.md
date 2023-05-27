@@ -16,6 +16,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=T2TDbMcAAAAJ&hl=en&oi=ao
+  - icon: researchgate
+    icon_pack: fas
+    link: https://www.researchgate.net/profile/Liangqi-Yuan
 organizations:
   - name: Purdue University
     url: https://www.purdue.edu/
