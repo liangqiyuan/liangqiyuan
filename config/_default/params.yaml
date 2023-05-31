@@ -50,6 +50,9 @@ footer:
       share_alike: ''
       allow_commercial: ''
 
+marketing:
+  analytics:
+    google_analytics: 'G-9Y4ZBWP6FH'
 # Localization
 
 locale:
