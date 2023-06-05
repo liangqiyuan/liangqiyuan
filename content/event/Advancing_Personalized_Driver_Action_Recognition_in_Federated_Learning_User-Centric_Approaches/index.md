@@ -2,7 +2,7 @@
 title: "Advancing Personalized Driver Action Recognition in Federated Learning: User-Centric Approaches"
 
 event: The 35th IEEE Intelligent Vehicles Symposium (IV 2023)
-event_url: https://iot-in-its.github.io/iv2023
+event_url: https://2023.ieee-iv.org/
 
 location: Alaska, USA
 address:
@@ -39,6 +39,9 @@ url_code: ''
 url_pdf: ''
 url_slides: IV2023 Presentation.pdf
 url_video: ''
+links:
+  - name: IoT in ITS: IV2023 Workshop
+    url: https://iot-in-its.github.io/iv2023
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
