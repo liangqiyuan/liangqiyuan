@@ -1,5 +1,5 @@
 ---
-title: 🆕 Three Dimensional Indoor Positioning Based on Passive Radio Frequency Signal Strength Distribution
+title: Three Dimensional Indoor Positioning Based on Passive Radio Frequency Signal Strength Distribution
 publication_types:
   - "2"
 authors:
