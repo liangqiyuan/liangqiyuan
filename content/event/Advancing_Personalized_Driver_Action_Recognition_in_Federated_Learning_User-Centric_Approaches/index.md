@@ -37,7 +37,7 @@ featured: true
 links:
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: IV2023 Presentation.pdf
 url_video: ''
 
 # Markdown Slides (optional).
