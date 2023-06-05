@@ -35,7 +35,7 @@ featured: true
 #   focal_point: Right
 
 links:
-  - name: IoT in ITS: IV2023 Workshop
+  - name: "IoT in ITS: IV2023 Workshop"
     url: https://iot-in-its.github.io/iv2023
 url_code: ''
 url_pdf: ''
