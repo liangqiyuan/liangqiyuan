@@ -35,13 +35,13 @@ featured: true
 #   focal_point: Right
 
 links:
+  - name: IoT in ITS: IV2023 Workshop
+    url: https://iot-in-its.github.io/iv2023
 url_code: ''
 url_pdf: ''
 url_slides: IV2023 Presentation.pdf
 url_video: ''
-links:
-  - name: IoT in ITS: IV2023 Workshop
-    url: https://iot-in-its.github.io/iv2023
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
