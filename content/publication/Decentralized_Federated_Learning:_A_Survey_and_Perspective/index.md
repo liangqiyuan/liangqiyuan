@@ -14,7 +14,7 @@ abstract: Federated learning (FL) has been gaining attention for its ability to 
 projects:
   - federated-learning
 image:
-  filename: FL.pdf
+  filename: FL.png
 date: 2023-06-02T14:31:11.488Z
 links:
   - name: DOI
