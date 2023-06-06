@@ -15,7 +15,7 @@ projects:
   - federated-learning
 image:
   filename: C2S_vs_P2P.png
-date: 2023-04-17T14:31:11.488Z
+date: 2023-06-19T14:31:11.488Z
 links:
   - name: DOI
     url: https://openaccess.thecvf.com/content/CVPR2023W/AICity/html/Yuan_Peer-to-Peer_Federated_Continual_Learning_for_Naturalistic_Driving_Action_Recognition_CVPRW_2023_paper.html
