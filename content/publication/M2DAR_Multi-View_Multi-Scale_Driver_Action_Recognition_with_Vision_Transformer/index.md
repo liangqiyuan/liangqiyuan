@@ -18,7 +18,7 @@ abstract: Ensuring traffic safety and preventing accidents is a critical goal in
 #   - federated-learning
 image:
   filename: M2DAR.png
-date: 2023-06-19T14:31:11.488Z
+date: 2023-04-19T14:31:11.488Z
 links:
   - name: DOI
     url: https://openaccess.thecvf.com/content/CVPR2023W/AICity/html/Ma_M2DAR_Multi-View_Multi-Scale_Driver_Action_Recognition_With_Vision_Transformer_CVPRW_2023_paper.html
