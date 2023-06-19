@@ -15,7 +15,7 @@ projects:
   - federated-learning
 image:
   filename: C2S_vs_P2P.png
-date: 2023-06-19T14:31:11.488Z
+date: 2023-06-19T15:31:11.488Z
 url_poster: 03-poster.pdf
 url_slides: 03-slides.pdf
 links:
