@@ -18,7 +18,7 @@ abstract: Ensuring traffic safety and preventing accidents is a critical goal in
 #   - federated-learning
 image:
   filename: M2DAR.png
-date: 2023-04-19T14:31:11.488Z
+date: 2023-06-19T14:31:11.488Z
 url_slides: 07-slides.pdf
 links:
   - name: DOI
