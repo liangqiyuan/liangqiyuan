@@ -90,7 +90,7 @@ sections:
       title: Academic Service
       subtitle: ''
       text: |-
-        ### Technical Program Committee
+        ### Technical Program Committee Member
         - [The Fourteenth International Conference on Sensor Device Technologies and Applications (SENSORDEVICES 2023)](https://www.iaria.org/conferences2023/SENSORDEVICES23.html)
 
         ### Journal Reviewer
