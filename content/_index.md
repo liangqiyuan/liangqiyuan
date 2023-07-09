@@ -90,12 +90,16 @@ sections:
       title: Academic Service
       subtitle: ''
       text: |-
+        ### Technical Program Committee
+        - [The Fourteenth International Conference on Sensor Device Technologies and Applications (SENSORDEVICES 2023)](https://www.iaria.org/conferences2023/SENSORDEVICES23.html)
+
         ### Journal Reviewer
         - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/)
         - [IEEE Access](https://ieeeaccess.ieee.org/)
         - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/)
         - [IEEE Internet of Things Journal](https://ieee-iotj.org/)
         - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/)  
+
         ### Conference Reviewer
         - [IEEE Sensors 2023](https://2023.ieee-sensorsconference.org/)
         - [The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)
