@@ -91,7 +91,7 @@ sections:
       subtitle: ''
       text: |-
         ### Technical Program Committee Member
-        - [The Fourteenth International Conference on Sensor Device Technologies and Applications (SENSORDEVICES 2023)](https://www.iaria.org/conferences2023/SENSORDEVICES23.html)
+        - [The 14th International Conference on Sensor Device Technologies and Applications (SENSORDEVICES 2023)](https://www.iaria.org/conferences2023/SENSORDEVICES23.html)
 
         ### Journal Reviewer
         - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/)
