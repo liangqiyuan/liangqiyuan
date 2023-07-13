@@ -8,7 +8,7 @@ authors:
   - Stanislaw H Zak
   - Ziran Wang
 doi: ""
-publication: _IEEE International Conference on Intelligent Transportation Systems (ITSC)_
+publication: _26th IEEE International Conference on Intelligent Transportation Systems (ITSC)_
 publication_short: ""
 abstract: Connected and Automated Vehicles (CAVs) are one of the emerging
   technologies in the automotive domain that has the potential to alleviate the
