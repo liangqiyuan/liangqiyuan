@@ -1,14 +1,14 @@
 ---
 title: A Survey of Federated Learning for Connected and Automated Vehicles
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Vishnu Pandi Chellapandi
   - admin
   - Stanislaw H Zak
   - Ziran Wang
 doi: ""
-publication: _arXiv_
+publication: _IEEE International Conference on Intelligent Transportation Systems (ITSC)_
 publication_short: ""
 abstract: Connected and Automated Vehicles (CAVs) are one of the emerging
   technologies in the automotive domain that has the potential to alleviate the
