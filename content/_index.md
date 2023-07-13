@@ -19,6 +19,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
+        - Jul 2023: One paper has been accepted to [ITSC 2023](https://2023.ieee-itsc.org/).
         - May 2023: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
         - Apr 2023: Two papers have been accepted to the [7th AI City Challenge Workshop at CVPR 2023](https://www.aicitychallenge.org/). I am honored to have been invited as a speaker at [IV 2023 IoT in ITS Workshop](https://iot-in-its.github.io/iv2023) to present my work in federated learning.
         - Mar 2023: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
