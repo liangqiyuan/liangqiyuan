@@ -1,5 +1,5 @@
 ---
-title: A Survey of Federated Learning for Connected and Automated Vehicles
+title: 🆕 A Survey of Federated Learning for Connected and Automated Vehicles
 publication_types:
   - "1"
 authors:
@@ -31,7 +31,7 @@ projects:
   - federated-learning
 image:
   filename: fl_cav_r1.png
-date: 2023-03-21T14:31:11.488Z
+date: 2023-07-13T14:31:11.488Z
 links:
   - name: DOI
     url: https://arxiv.org/abs/2303.10677
