@@ -1,5 +1,5 @@
 ---
-title: 🆕 Federated Transfer-Ordered-Personalized Learning for Driver Monitoring
+title: Federated Transfer-Ordered-Personalized Learning for Driver Monitoring
   Application
 publication_types:
   - "2"
