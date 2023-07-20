@@ -44,7 +44,7 @@ last_name: Yuan
 highlight_name: true
 first_name: Liangqi
 ---
-Greetings! I am currently a Ph.D. student at [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I obtained my M.S. degree from [Oakland University](http://www.oakland.edu/) in 2022, and my advisor are [Dr. Jia Li](https://www.secs.oakland.edu/~li4/) and [Dr. Hongwei Qu](https://www.secs.oakland.edu/~qu2/). I received my B.E. degree from the [Beijing Information Science & Technology University (BISTU)](https://english.bistu.edu.cn/), Beijing, China, in 2020. Prior to this, I spent my senior year at [Oakland University](http://www.oakland.edu/) as a visiting student in 2020.
+Greetings! I am currently a Ph.D. student at [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu/). I obtained my M.S. degree from [Oakland University](http://www.oakland.edu/) in 2022, and my advisor are [Dr. Jia Li](https://www.secs.oakland.edu/~li4/) and [Dr. Hongwei Qu](https://www.secs.oakland.edu/~qu2/). I received my B.E. degree from the [Beijing Information Science & Technology University (BISTU)](https://english.bistu.edu.cn/), Beijing, China, in 2020. Prior to this, I spent my senior year at [Oakland University](http://www.oakland.edu/) as a visiting student in 2020.
 {style="text-align: justify;"}
 
 I am looking for a Ph.D. RA position in Fall 2023. My research interests focus on sensor applications, the internet of things, signal processing, and machine learning. My current research project is **Peer-to-Peer Federated Learning**. Please feel free to email me if you have any questions!
