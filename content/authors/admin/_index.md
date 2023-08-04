@@ -17,7 +17,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=T2TDbMcAAAAJ&hl=en&oi=ao
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Liangqi-Yuan
 organizations:
   - name: Purdue University
