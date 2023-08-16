@@ -99,9 +99,9 @@ sections:
     design:
       columns: '2'
   - block: markdown
-    id: service
+    id: activities
     content:
-      title: Academic Service
+      title: Professional Activities
       subtitle: ''
       text: |-
         ### Technical Program Committee Member
