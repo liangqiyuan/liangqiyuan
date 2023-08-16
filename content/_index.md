@@ -92,8 +92,9 @@ sections:
       subtitle: ''
       text: |-
         ### Purdue University
+        # Grader
         - ECE 60146 - [Deep Learning](https://engineering.purdue.edu/DeepLearn/) <span style="float: right;">Spring 2023</span>
-        - ECE 66100 - [Computer Vision](https://engineering.purdue.edu/kak/computervision/), Fall 2022
+        - ECE 66100 - [Computer Vision](https://engineering.purdue.edu/kak/computervision/) <span style="float: right;">Fall 2022</span>
 
     design:
       columns: '2'
