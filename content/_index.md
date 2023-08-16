@@ -109,6 +109,18 @@ sections:
         - [The 6th International Conference on Computer Science and Application Engineering (CSAE 2022)](http://www.csaeconf.org/2022/)
     design:
       columns: '2'
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      subtitle: ''
+      text: |-
+        ### Purdue University
+        - ECE 60146 - [Deep Learning](https://engineering.purdue.edu/DeepLearn/), <div style="text-align: right">Spring 2023</div>
+        - ECE 66100 - [Computer Vision](https://engineering.purdue.edu/kak/computervision/), Fall 2022
+
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
