@@ -15,7 +15,7 @@ abstract: Machine learning (ML) is widely used for key tasks in Connected and Au
 projects:
   - federated-learning
 image:
-  filename: Data.pdf
+  filename: Challenge.png
 date: 2023-08-21T14:31:11.488Z
 links:
   - name: DOI
