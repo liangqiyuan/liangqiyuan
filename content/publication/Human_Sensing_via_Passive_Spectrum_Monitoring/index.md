@@ -14,7 +14,7 @@ projects:
   - passive-radio-frequency-sensor
 image:
   filename: Living Room.png
-date: 2023-06-28T14:31:11.488Z
+date: 2023-08-22T14:31:11.488Z
 links:
   - name: DOI
     url: https://arxiv.org/abs/2306.15893
