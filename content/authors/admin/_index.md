@@ -6,6 +6,8 @@ interests:
   - Internet of Things
   - Machine Learning
   - Sensors
+  - Biometrics
+  - Pattern Recognition
 social:
   - icon: envelope
     icon_pack: fas
