@@ -132,7 +132,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: liangqiy@purdue.edu
       address:
-        street: Hampton Hall 2155, 550 Stadium Mall Drive
+        street: BHEE 051, 465 Northwestern Ave
         city: West Lafayette
         region: IN
         postcode: '47907'
