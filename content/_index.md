@@ -117,6 +117,7 @@ sections:
         - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/)  
 
         ### Conference Reviewer
+        - [IEEE Conference on Computer Communications (INFOCOM 2024)](https://infocom2024.ieee-infocom.org/)
         - [IEEE Sensors Conference 2023](https://2023.ieee-sensorsconference.org/)
         - [The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)
         - [The 6th International Conference on Mechanical, Electric, and Industrial Engineering (MEIE 2023)](http://www.icmeie.com/)
