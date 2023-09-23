@@ -121,7 +121,7 @@ sections:
         - [IEEE Sensors Conference 2023](https://2023.ieee-sensorsconference.org/)
         - [The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)
         - [The 6th International Conference on Mechanical, Electric, and Industrial Engineering (MEIE 2023)](http://www.icmeie.com/)
-        - [The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST 2023)](https://ieeemobility.org/)
+        - [The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST 2023)](https://ieeemobility.org/MOST2023/)
         - [The 6th International Conference on Computer Science and Application Engineering (CSAE 2022)](http://www.csaeconf.org/2022/)
     design:
       columns: '2'
