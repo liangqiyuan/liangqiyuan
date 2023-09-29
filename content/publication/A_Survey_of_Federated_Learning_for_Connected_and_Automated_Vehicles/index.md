@@ -32,6 +32,7 @@ projects:
 image:
   filename: fl_cav_r1.png
 date: 2023-07-13T14:31:11.488Z
+url_slides: ITSC2023 Presentation.pdf
 links:
   - name: DOI
     url: https://arxiv.org/abs/2303.10677
