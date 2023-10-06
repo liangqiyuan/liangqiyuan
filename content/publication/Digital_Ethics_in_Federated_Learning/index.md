@@ -13,7 +13,7 @@ abstract: The Internet of Things (IoT) consistently generates vast amounts of da
 projects:
   - federated-learning
 image:
-  filename: Ethics.png
+  filename: Roadmap.png
 date: 2023-06-02T14:31:11.488Z
 links:
   - name: DOI
