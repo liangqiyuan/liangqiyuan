@@ -14,7 +14,7 @@ projects:
   - federated-learning
 image:
   filename: Roadmap.png
-date: 2023-06-02T14:31:11.488Z
+date: 2023-10-04T14:31:11.488Z
 links:
   - name: DOI
     url: https://arxiv.org/abs/2310.03178
