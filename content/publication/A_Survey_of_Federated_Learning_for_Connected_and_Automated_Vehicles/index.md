@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Vishnu Pandi Chellapandi
   - admin
-  - Stanislaw H Żak
+  - Stanislaw H. Żak
   - Ziran Wang
 doi: ""
 publication: _26th IEEE International Conference on Intelligent Transportation Systems (ITSC)_
