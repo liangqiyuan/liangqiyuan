@@ -1,5 +1,5 @@
 ---
-title: "🆕 Digital Ethics in Federated Learning"
+title: "🆕 FedMFS: Federated Multimodal Fusion Learning with Selective Modality Communication"
 publication_types:
   - "3"
 authors:
