@@ -6,7 +6,7 @@ authors:
   - Vishnu Pandi Chellapandi
   - admin
   - Christopher G. Brinton
-  - Stanislaw H Zak
+  - Stanislaw H. Żak
   - Ziran Wang
 doi: ""
 publication: _arXiv_
