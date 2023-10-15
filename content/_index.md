@@ -109,13 +109,13 @@ sections:
         - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2023/SENSORDEVICES23.html) <span style="float: right;">2023</span>
 
         ### Journal Reviewer
-        - [Springer Applied Composite Materials](https://www.springer.com/journal/10443)
-        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut)
-        - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/)
-        - [IEEE Access](https://ieeeaccess.ieee.org/)
-        - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/)
-        - [IEEE Internet of Things Journal](https://ieee-iotj.org/)
-        - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/)  
+        - [Springer Applied Composite Materials](https://www.springer.com/journal/10443) <span style="float: right;">2023 – Present</span>
+        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut) <span style="float: right;">2023 – Present</span>
+        - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) <span style="float: right;">2023 – Present</span>
+        - [IEEE Access](https://ieeeaccess.ieee.org/) <span style="float: right;">2023 – Present</span>
+        - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">2023 – Present</span>
+        - [IEEE Internet of Things Journal](https://ieee-iotj.org/) <span style="float: right;">2022 – Present</span>
+        - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">2022 – Present</span>
 
         ### Conference Reviewer
         - [IEEE International Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">2024</span>
