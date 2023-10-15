@@ -106,24 +106,24 @@ sections:
       subtitle: ''
       text: |-
         ### Technical Program Committee Member
-        - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2023/SENSORDEVICES23.html) <span style="float: right;">2023</span>
+        - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2023/SENSORDEVICES23.html) <span style="float: right;">_2023_</span>
 
         ### Journal Reviewer
-        - [Springer Applied Composite Materials](https://www.springer.com/journal/10443) <span style="float: right;">2023 – Present</span>
-        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut) <span style="float: right;">2023 – Present</span>
-        - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) <span style="float: right;">2023 – Present</span>
-        - [IEEE Access](https://ieeeaccess.ieee.org/) <span style="float: right;">2023 – Present</span>
-        - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">2023 – Present</span>
-        - [IEEE Internet of Things Journal](https://ieee-iotj.org/) <span style="float: right;">2022 – Present</span>
-        - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">2022 – Present</span>
+        - [Springer Applied Composite Materials](https://www.springer.com/journal/10443) <span style="float: right;">_2023 – Present_</span>
+        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut) <span style="float: right;">_2023 – Present_</span>
+        - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) <span style="float: right;">_2023 – Present_</span>
+        - [IEEE Access](https://ieeeaccess.ieee.org/) <span style="float: right;">_2023 – Present_</span>
+        - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">_2023 – Present_</span>
+        - [IEEE Internet of Things Journal](https://ieee-iotj.org/) <span style="float: right;">_2022 – Present_</span>
+        - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – Present_</span>
 
         ### Conference Reviewer
-        - [IEEE International Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">2024</span>
+        - [IEEE International Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">_2024_</span>
         - [IEEE Sensors Conference](https://2023.ieee-sensorsconference.org/) <span style="float: right;">2023</span>
-        - [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://2023.ieee-itsc.org/) <span style="float: right;">2023</span>
-        - [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">2023</span>
-        - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">2023</span>
-        - [International Conference on Computer Science and Application Engineering (CSAE)](https://dl.acm.org/conference/csae) <span style="float: right;">2022</span>
+        - [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://2023.ieee-itsc.org/) <span style="float: right;">_2023_</span>
+        - [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">_2023_</span>
+        - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">_2023_</span>
+        - [International Conference on Computer Science and Application Engineering (CSAE)](https://dl.acm.org/conference/csae) <span style="float: right;">_2022_</span>
     design:
       columns: '1'
   - block: contact
