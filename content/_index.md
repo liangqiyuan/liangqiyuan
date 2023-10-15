@@ -106,9 +106,10 @@ sections:
       subtitle: ''
       text: |-
         ### Technical Program Committee Member
-        - [The 14th International Conference on Sensor Device Technologies and Applications (SensorDevices 2023)](https://www.iaria.org/conferences2023/SENSORDEVICES23.html)
+        - [International Conference on Sensor Device Technologies and Applications (SensorDevices)](https://www.iaria.org/conferences2023/SENSORDEVICES23.html) <span style="float: right;">2023</span>
 
         ### Journal Reviewer
+        - [Springer Applied Composite Materials](https://www.springer.com/journal/10443)
         - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut)
         - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/)
         - [IEEE Access](https://ieeeaccess.ieee.org/)
@@ -117,12 +118,12 @@ sections:
         - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/)  
 
         ### Conference Reviewer
-        - [IEEE Conference on Computer Communications (INFOCOM 2024)](https://infocom2024.ieee-infocom.org/)
-        - [IEEE Sensors Conference 2023](https://2023.ieee-sensorsconference.org/)
-        - [The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)
-        - [The 6th International Conference on Mechanical, Electric, and Industrial Engineering (MEIE 2023)](http://www.icmeie.com/)
-        - [The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST 2023)](https://ieeemobility.org/MOST2023/)
-        - [The 6th International Conference on Computer Science and Application Engineering (CSAE 2022)](http://www.csaeconf.org/2022/)
+        - [IEEE Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">2024</span>
+        - [IEEE Sensors Conference](https://2023.ieee-sensorsconference.org/) <span style="float: right;">2023</span>
+        - [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://2023.ieee-itsc.org/) <span style="float: right;">2023</span>
+        - [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">2023</span>
+        - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">2023</span>
+        - [International Conference on Computer Science and Application Engineering (CSAE)](https://dl.acm.org/conference/csae) <span style="float: right;">2022</span>
     design:
       columns: '2'
   - block: contact
