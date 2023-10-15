@@ -106,7 +106,7 @@ sections:
       subtitle: ''
       text: |-
         ### Technical Program Committee Member
-        - [International Conference on Sensor Device Technologies and Applications (SensorDevices)](https://www.iaria.org/conferences2023/SENSORDEVICES23.html) <span style="float: right;">2023</span>
+        - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2023/SENSORDEVICES23.html) <span style="float: right;">2023</span>
 
         ### Journal Reviewer
         - [Springer Applied Composite Materials](https://www.springer.com/journal/10443)
@@ -125,7 +125,7 @@ sections:
         - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">2023</span>
         - [International Conference on Computer Science and Application Engineering (CSAE)](https://dl.acm.org/conference/csae) <span style="float: right;">2022</span>
     design:
-      columns: '2'
+      columns: '1'
   - block: contact
     id: contact
     content:
