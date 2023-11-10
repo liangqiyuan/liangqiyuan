@@ -19,6 +19,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
+        - Nov 2023: One paper has been accepted to [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/).
         - Aug 2023: One paper has been accepted to [IEEE Open Journal of Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-ojim/about).
         - Jul 2023: One paper has been accepted to [ITSC 2023](https://2023.ieee-itsc.org/).
         - May 2023: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
