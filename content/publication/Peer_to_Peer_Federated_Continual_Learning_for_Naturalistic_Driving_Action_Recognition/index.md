@@ -1,5 +1,5 @@
 ---
-title: 🆕 Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition
+title: Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition
 publication_types:
   - "1"
 authors:
