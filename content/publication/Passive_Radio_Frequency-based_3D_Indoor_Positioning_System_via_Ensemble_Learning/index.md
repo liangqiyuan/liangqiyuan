@@ -24,7 +24,7 @@ authors:
   - Houlin Chen
   - Robert Ewing
   - Jia Li
-doi: https://link.springer.com/book/9783031526695
+doi: ""
 publication: _4th International Conference on InfoSymbiotics/Dynamic Data Driven Applications Systems (DDDAS)_
 tags: []
 projects:
@@ -36,4 +36,6 @@ url_slides: DDDAS2022 Presentation.pdf
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2304.06513
+  - name: Book
+    https://link.springer.com/book/9783031526695
 ---
