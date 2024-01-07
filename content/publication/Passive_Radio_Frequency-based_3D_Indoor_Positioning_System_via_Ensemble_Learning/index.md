@@ -37,5 +37,5 @@ links:
   - name: arXiv
     url: https://arxiv.org/abs/2304.06513
   - name: Book
-    https://link.springer.com/book/9783031526695
+    url: https://link.springer.com/book/9783031526695
 ---
