@@ -110,6 +110,7 @@ sections:
         - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2023/SENSORDEVICES23.html) <span style="float: right;">_2023_</span>
 
         ### Journal Reviewer
+        - [SAE International Journal of Connected and Automated Vehicles](https://www.sae.org/publications/collections/content/E-JOURNAL-12/) <span style="float: right;">_2024 – Present_</span>
         - [Springer Applied Composite Materials](https://www.springer.com/journal/10443) <span style="float: right;">_2023 – Present_</span>
         - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) <span style="float: right;">_2023 – Present_</span>
