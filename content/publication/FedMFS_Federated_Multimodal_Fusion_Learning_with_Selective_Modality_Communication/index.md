@@ -9,14 +9,14 @@ authors:
   - Stanislaw H. Żak
   - Christopher G. Brinton
 doi: ""
-publication: _arXiv_
+publication: _IEEE International Conference on Communications_
 publication_short: ""
-abstract: "Federated learning (FL) is a distributed machine learning (ML) paradigm that enables clients to collaborate without accessing, infringing upon, or leaking original user data by sharing only model parameters. In the Internet of Things (IoT), edge devices are increasingly leveraging multimodal data compositions and fusion paradigms to enhance model performance. However, in FL applications, two main challenges remain open: (i) addressing the issues caused by heterogeneous clients lacking specific modalities and (ii) devising an optimal modality upload strategy to minimize communication overhead while maximizing learning performance. In this paper, we propose Federated Multimodal Fusion learning with Selective modality communication (FedMFS), a new multimodal fusion FL methodology that can tackle the above mentioned challenges. The key idea is to utilize Shapley values to quantify each modality's impact and modality model size to gauge communication overhead, so that each client can selectively upload the modality models to the server for aggregation. This enables FedMFS to flexibly balance performance against communication costs, depending on resource constraints and applications. Experiments on real-world multimodal datasets demonstrate the effectiveness of FedMFS, achieving comparable accuracy while reducing communication overhead by one twentieth compared to baselines."
+abstract: "Multimodal federated learning (FL) aims to enrich model training in FL settings where devices are collecting measurements across multiple modalities (e.g., sensors measuring pressure, motion, and other types of data). However, key challenges to multimodal FL remain unaddressed, particularly in heterogeneous network settings: (i) the set of modalities collected by each device will be diverse, and (ii) communication limitations prevent devices from uploading all their locally trained modality models to the server. In this paper, we propose Federated Multimodal Fusion learning with Selective modality communication (FedMFS), a new multimodal fusion FL methodology that can tackle the above mentioned challenges. The key idea is the introduction of a modality selection criterion for each device, which weighs (i) the impact of the modality, gauged by Shapley value analysis, against (ii) the modality model size as a gauge for communication overhead. This enables FedMFS to flexibly balance performance against communication costs, depending on resource constraints and application requirements. Experiments on the real-world ActionSense dataset demonstrate the ability of FedMFS to achieve comparable accuracy to several baselines while reducing the communication overhead by over 4x."
 projects:
   - federated-learning
 image:
   filename: FedMFS.png
-date: 2023-10-10T14:31:11.488Z
+date: 2024-01-16T14:31:11.488Z
 links:
   - name: DOI
     url: https://arxiv.org/abs/2310.07048
