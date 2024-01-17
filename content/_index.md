@@ -19,6 +19,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
+        - Jan 2024: One paper has been accepted to [IEEE International Conference on Communications](https://icc2024.ieee-icc.org/).
         - Nov 2023: One paper has been accepted to [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/).
         - Aug 2023: One paper has been accepted to [IEEE Open Journal of Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-ojim/about).
         - Jul 2023: One paper has been accepted to [ITSC 2023](https://2023.ieee-itsc.org/).
