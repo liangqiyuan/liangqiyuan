@@ -21,5 +21,6 @@ links:
   - name: Video
     url: https://youtu.be/yN6q0B3Hy4I
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yN6q0B3Hy4I?si=ziiFNl9wvFdwOVgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center;">
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/yN6q0B3Hy4I?si=ziiFNl9wvFdwOVgl" title="mmFedMC Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
