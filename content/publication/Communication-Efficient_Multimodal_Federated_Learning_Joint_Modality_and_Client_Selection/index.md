@@ -18,6 +18,6 @@ image:
   filename: JMCS.png
 date: 2023-01-18T14:31:11.488Z
 links:
-  - name: DOI
-    url: ""
+  - name: Video
+    url: https://youtu.be/yN6q0B3Hy4I
 ---
