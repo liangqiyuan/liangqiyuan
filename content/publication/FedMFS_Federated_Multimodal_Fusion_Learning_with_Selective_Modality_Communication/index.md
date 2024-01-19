@@ -1,7 +1,7 @@
 ---
 title: "🆕 FedMFS: Federated Multimodal Fusion Learning with Selective Modality Communication"
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Dong-Jun Han
