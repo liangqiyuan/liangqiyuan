@@ -1,0 +1,5 @@
+.content {
+    max-width: 1200px; /* Increase the maximum width */
+    margin: 0 auto; /* Center the content */
+    padding: 20px; /* Add some padding around the content */
+}
