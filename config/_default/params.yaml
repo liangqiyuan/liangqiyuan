@@ -117,5 +117,5 @@ security:
   allow_frame: true
 
 
-custom_css: "css/custom.css"
+customCSS: "css/custom.css"
 
