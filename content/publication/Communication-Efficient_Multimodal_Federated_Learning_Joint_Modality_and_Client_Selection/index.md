@@ -1,5 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yN6q0B3Hy4I?si=ziiFNl9wvFdwOVgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ---
 title: "🆕 Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection"
 publication_types:
@@ -23,3 +21,5 @@ links:
   - name: Video
     url: https://youtu.be/yN6q0B3Hy4I
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yN6q0B3Hy4I?si=ziiFNl9wvFdwOVgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
