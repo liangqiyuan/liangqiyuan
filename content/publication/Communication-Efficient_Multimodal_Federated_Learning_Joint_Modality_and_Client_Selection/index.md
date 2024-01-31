@@ -21,6 +21,8 @@ date: 2024-01-18T14:31:11.488Z
 links:
   - name: Video
     url: https://youtu.be/yN6q0B3Hy4I
+  - name: DOI
+    url: https://arxiv.org/abs/2401.16685
 ---
 
 {{< youtube yN6q0B3Hy4I >}}
