@@ -1,5 +1,5 @@
 ---
-title: 🆕 Human Sensing via Passive Spectrum Monitoring
+title: Human Sensing via Passive Spectrum Monitoring
 publication_types:
   - "2"
 authors:
