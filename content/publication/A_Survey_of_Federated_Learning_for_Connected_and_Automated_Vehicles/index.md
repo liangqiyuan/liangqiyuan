@@ -1,5 +1,5 @@
 ---
-title: 🆕 A Survey of Federated Learning for Connected and Automated Vehicles
+title: A Survey of Federated Learning for Connected and Automated Vehicles
 publication_types:
   - "1"
 authors:
