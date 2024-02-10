@@ -18,12 +18,10 @@ projects:
 image:
   filename: JMCS.png
 date: 2024-01-18T14:31:11.488Z
-url_Video: "mmFedMC_Demo.mp4"
+url_Video: "https://youtu.be/QsB0G71LCTc"
 links:
   - name: DOI
     url: https://arxiv.org/abs/2401.16685
 ---
 
-
-{{< video library="true" src="mmFedMC_Demo.mp4" controls="yes" >}}
-
+{{< youtube QsB0G71LCTc >}}
