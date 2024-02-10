@@ -4,8 +4,10 @@
   margin: 0 auto;
 }
 
-.video {
-  max-width: 100% !important;
-  height: auto !important;
+img,
+video {
+  height: auto;
+  max-width: 100%;
+  display: block;
 }
 
