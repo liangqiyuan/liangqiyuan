@@ -5,6 +5,7 @@
 }
 
 .video-container video {
-  max-width: 1920px;
-  height: 108px;
+  max-width: 100% !important;
+  height: auto !important;
 }
+
