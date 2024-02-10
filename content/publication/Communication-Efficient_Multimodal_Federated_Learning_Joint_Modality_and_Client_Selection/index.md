@@ -25,5 +25,5 @@ links:
 ---
 
 
-{{< video src="mmFedMC_Demo.mp4" controls="yes" width="640" height="360" >}}
+{{< video src="mmFedMC_Demo.mp4" controls="yes" >}}
 
