@@ -20,10 +20,9 @@ image:
 date: 2024-01-18T14:31:11.488Z
 url_Video: "mmFedMC_Demo.mp4"
 links:
-  - name: Video
-    url: https://youtu.be/QsB0G71LCTc
   - name: DOI
     url: https://arxiv.org/abs/2401.16685
 ---
 
+{{< video src="mmFedMC_Demo.mp4" controls="yes" >}}
 
