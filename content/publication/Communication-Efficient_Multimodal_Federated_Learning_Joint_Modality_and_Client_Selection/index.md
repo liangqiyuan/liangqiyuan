@@ -18,7 +18,7 @@ projects:
 image:
   filename: JMCS.png
 date: 2024-01-18T14:31:11.488Z
-url_Video = "mmFedMC_Demo.mp4"
+url_Video: "mmFedMC_Demo.mp4"
 links:
   - name: Video
     url: https://youtu.be/QsB0G71LCTc
