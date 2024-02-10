@@ -26,5 +26,4 @@ links:
     url: https://arxiv.org/abs/2401.16685
 ---
 
-{{< video src="my_video.mp4" controls="yes" >}}
 
