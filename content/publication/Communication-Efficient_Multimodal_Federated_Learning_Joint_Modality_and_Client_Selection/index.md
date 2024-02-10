@@ -25,4 +25,5 @@ links:
     url: https://arxiv.org/abs/2401.16685
 ---
 
-{{< youtube QsB0G71LCTc >}}
+# {{< youtube QsB0G71LCTc >}}
+{{< video src="mmFedMC_Demo.mp4" controls="yes" >}}
