@@ -24,5 +24,5 @@ links:
     url: https://arxiv.org/abs/2401.16685
 ---
 
-{{< video src="mmFedMC_Demo.mp4" width="3840" height="2160" controls="yes" >}}
+{{< customvideo src="mmFedMC_Demo.mp4" width="3840" height="2160" controls="yes" >}}
 
