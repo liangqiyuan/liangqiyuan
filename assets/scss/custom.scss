@@ -4,8 +4,14 @@
   margin: 0 auto;
 }
 
-video {
-  width: 200%;
-  height: auto;
+.article-style {
+  img,
+  video {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 0;
+  }
 }
 
