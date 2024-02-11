@@ -3,6 +3,7 @@ title: "🆕 Communication-Efficient Multimodal Federated Learning: Joint Modali
 url: "mmFedMC"
 publication_types:
   - "3"
+featured: true
 authors:
   - admin
   - Dong-Jun Han
