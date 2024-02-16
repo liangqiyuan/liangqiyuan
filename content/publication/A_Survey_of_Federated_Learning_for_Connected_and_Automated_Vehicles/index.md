@@ -7,7 +7,7 @@ authors:
   - admin
   - Stanislaw H. Żak
   - Ziran Wang
-doi: ""
+doi: 10.1109/ITSC57777.2023.10421974
 publication: _26th IEEE International Conference on Intelligent Transportation Systems (ITSC)_
 publication_short: ""
 abstract: Connected and Automated Vehicles (CAVs) are one of the emerging
@@ -33,7 +33,4 @@ image:
   filename: fl_cav_r1.png
 date: 2023-09-24T14:31:11.488Z
 url_slides: ITSC2023 Presentation.pdf
-links:
-  - name: DOI
-    url: https://arxiv.org/abs/2303.10677
 ---
