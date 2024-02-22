@@ -38,7 +38,7 @@ url_code: ''
 url_pdf: ''
 # url_slides: IV2023 Presentation.pdf
 url_video: ''
-
+url_poster: NAML2024 Poster.pdf
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
