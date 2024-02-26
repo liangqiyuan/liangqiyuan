@@ -16,6 +16,6 @@ projects:
   - passive-radio-frequency-sensor
 image:
   filename: system-diagram.png
-date: 2024-02-27T00:00:00.000Z
+date: 2022-10-06T00:00:00.000Z
 url_slides: DDDAS2022 Presentation.pdf
 ---
