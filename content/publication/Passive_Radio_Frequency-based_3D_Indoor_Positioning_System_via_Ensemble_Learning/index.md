@@ -10,7 +10,7 @@ authors:
   - Robert Ewing
   - Jia Li
 doi: 10.1007/978-3-031-52670-1_17
-publication: _4th International Conference on InfoSymbiotics/Dynamic Data Driven Applications Systems (DDDAS)_
+publication: _International Conference on Dynamic Data Driven Applications Systems_
 tags: []
 projects:
   - passive-radio-frequency-sensor
