@@ -109,7 +109,7 @@ sections:
       subtitle: ''
       text: |-
         ### Technical Program Committee Member
-        - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2023/SENSORDEVICES23.html) <span style="float: right;">_2023_</span>
+        - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 
         ### Journal Reviewer
         - [IEEE Transactions on Machine Learning in Communications and Networking](https://www.comsoc.org/publications/journals/ieee-tmlcn) <span style="float: right;">_2024 – Present_</span>
