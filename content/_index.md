@@ -19,6 +19,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
+        - May 2024: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
         - Feb 2024: One paper has been accepted to [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic).
         - Jan 2024: One paper has been accepted to [ICC 2024](https://icc2024.ieee-icc.org/). One abstract has been accepted to [NAML 2024](https://sites.google.com/go.spawar.navy.mil/naml/).
         - Nov 2023: One paper has been accepted to [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/).
