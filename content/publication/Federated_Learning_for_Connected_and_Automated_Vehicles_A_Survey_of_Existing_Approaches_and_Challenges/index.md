@@ -1,5 +1,5 @@
 ---
-title: "🆕 Federated Learning for Connected and Automated Vehicles: A Survey of Existing Approaches and Challenges"
+title: "Federated Learning for Connected and Automated Vehicles: A Survey of Existing Approaches and Challenges"
 publication_types:
   - "2"
 authors:
