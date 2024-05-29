@@ -136,9 +136,11 @@ sections:
         - [IEEE International Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">_2024_</span>
         - [IEEE Sensors Conference](https://2023.ieee-sensorsconference.org/) <span style="float: right;">_2023_</span>
         - [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://2023.ieee-itsc.org/) <span style="float: right;">_2023_</span>
-        # - [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">_2023_</span>
         - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">_2023_</span>
-        # - [International Conference on Computer Science and Application Engineering (CSAE)](https://dl.acm.org/conference/csae) <span style="float: right;">_2022_</span>
+        
+
+# [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">_2023_</span>
+# [International Conference on Computer Science and Application Engineering (CSAE)](https://dl.acm.org/conference/csae) <span style="float: right;">_2022_</span>    
     design:
       columns: '1'
   - block: contact
