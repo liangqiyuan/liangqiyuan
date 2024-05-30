@@ -129,7 +129,7 @@ sections:
         - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – Present_</span>
 
         ### Conference Reviewer
-        - [Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) <span style="float: right;">_2024_</span>
+        - [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) <span style="float: right;">_2024_</span>
         - [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) AI4CC Workshop](https://ai4cc.net/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Distributed Computing Systems (ICDCS)](https://icdcs2024.icdcs.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/) <span style="float: right;">_2024_</span>
