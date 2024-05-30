@@ -113,6 +113,7 @@ sections:
         - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 
         ### Journal Reviewer
+        - [IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Sensors Letters](https://ieee-sensorsletters.org/) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Mobile Computing](https://www.computer.org/csdl/journal/tm) <span style="float: right;">_2024 – Present_</span>
         - [Elsevier Measurement](https://www.sciencedirect.com/journal/measurement) <span style="float: right;">_2024 – Present_</span>
