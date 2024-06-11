@@ -28,7 +28,7 @@ education:
   courses:
     - course: Ph.D. in Computer Engineering
       institution: Purdue University
-      year: 2027
+      year: 2026
     - course: M.S. in Electrical Engineering
       institution: Oakland University
       year: 2022
