@@ -5,9 +5,9 @@ avatar_filename: Liangqi Yuan.jpg
 interests:
   - Internet of Things
   - Machine Learning
+  - Federated Learning
+  - Multimodal Learning
   - Sensors
-  - Biometrics
-  - Pattern Recognition
 social:
   - icon: envelope
     icon_pack: fas
