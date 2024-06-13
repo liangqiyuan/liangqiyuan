@@ -20,4 +20,5 @@ date: 2024-01-16T14:31:11.488Z
 links:
   - name: DOI
     url: https://arxiv.org/abs/2310.07048
+url_slides: ICC 2024 Multimodal FL.pdf
 ---
