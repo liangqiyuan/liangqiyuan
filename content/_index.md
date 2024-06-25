@@ -110,6 +110,7 @@ sections:
       subtitle: ''
       text: |-
         ### Technical Program Committee Member
+        - [IEEE International Symposium on Embedded Multicore/Manycore SoCs (MCSoC)](https://www.mcsoc-forum.org/) <span style="float: right;">_2024_</span>
         - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 
         ### Journal Reviewer
