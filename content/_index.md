@@ -114,21 +114,21 @@ sections:
         - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 
         ### Journal Reviewer
-        - [IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom) <span style="float: right;">_2024 – Present_</span>
+        - [IEEE Transactions on Communications (TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Sensors Letters](https://ieee-sensorsletters.org/) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Transactions on Mobile Computing](https://www.computer.org/csdl/journal/tm) <span style="float: right;">_2024 – Present_</span>
+        - [IEEE Transactions on Mobile Computing (TMC)](https://www.computer.org/csdl/journal/tm) <span style="float: right;">_2024 – Present_</span>
         - [Elsevier Measurement](https://www.sciencedirect.com/journal/measurement) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Transactions on Geoscience and Remote Sensing](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Transactions on Machine Learning in Communications and Networking](https://www.comsoc.org/publications/journals/ieee-tmlcn) <span style="float: right;">_2024 – Present_</span>
-        - [Elsevier Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) <span style="float: right;">_2024 – Present_</span>
+        - [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/) <span style="float: right;">_2024 – Present_</span>
+        - [IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)](https://www.comsoc.org/publications/journals/ieee-tmlcn) <span style="float: right;">_2024 – Present_</span>
+        - [Elsevier Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) <span style="float: right;">_2024 – Present_</span>
         - [SAE International Journal of Connected and Automated Vehicles](https://www.sae.org/publications/collections/content/E-JOURNAL-12/) <span style="float: right;">_2024 – Present_</span>
         - [Springer Applied Composite Materials](https://www.springer.com/journal/10443) <span style="float: right;">_2023 – Present_</span>
-        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/journal/imwut) <span style="float: right;">_2023 – Present_</span>
-        - [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/) <span style="float: right;">_2023 – Present_</span>
+        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut) <span style="float: right;">_2023 – Present_</span>
+        - [IEEE Transactions on Intelligent Transportation Systems (TITS)](https://ieee-itss.org/pub/t-its/) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Access](https://ieeeaccess.ieee.org/) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">_2023 – Present_</span>
-        - [IEEE Internet of Things Journal](https://ieee-iotj.org/) <span style="float: right;">_2022 – Present_</span>
-        - [IEEE Transactions on Intelligent Vehicles](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – Present_</span>
+        - [IEEE Internet of Things Journal](https://ieee-iotj.org/ (IoT-J)) <span style="float: right;">_2022 – Present_</span>
+        - [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – Present_</span>
 
         ### Conference Reviewer
         - [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) <span style="float: right;">_2024_</span>
