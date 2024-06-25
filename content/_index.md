@@ -127,7 +127,7 @@ sections:
         - [IEEE Transactions on Intelligent Transportation Systems (TITS)](https://ieee-itss.org/pub/t-its/) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Access](https://ieeeaccess.ieee.org/) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">_2023 – Present_</span>
-        - [IEEE Internet of Things Journal](https://ieee-iotj.org/ (IoT-J)) <span style="float: right;">_2022 – Present_</span>
+        - [IEEE Internet of Things Journal (IoT-J)](https://ieee-iotj.org/) <span style="float: right;">_2022 – Present_</span>
         - [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – Present_</span>
 
         ### Conference Reviewer
