@@ -139,6 +139,9 @@ sections:
         - [IEEE International Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://2023.ieee-itsc.org/) <span style="float: right;">_2023_</span>
         - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">_2023_</span>
+
+        ### Proposal Reviewer
+        - [Advances in Neural Information Processing Systems (NeurIPS) Workshop Proposals](https://neurips.cc/) <span style="float: right;">_2024_</span>
         
 
 # [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">_2023_</span>
