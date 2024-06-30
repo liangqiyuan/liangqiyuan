@@ -141,7 +141,7 @@ sections:
         - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">_2023_</span>
 
         ### Proposal Reviewer
-        - [Advances in Neural Information Processing Systems (NeurIPS) Workshop Proposals](https://neurips.cc/) <span style="float: right;">_2024_</span>
+        - [Advances in Neural Information Processing Systems (NeurIPS) Workshop Proposals](https://neurips.cc/Conferences/2024/CallForWorkshops) <span style="float: right;">_2024_</span>
         
 
 # [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">_2023_</span>
