@@ -125,7 +125,6 @@ sections:
         - [Elsevier Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) <span style="float: right;">_2024 – Present_</span>
         - [SAE International Journal of Connected and Automated Vehicles](https://www.sae.org/publications/collections/content/E-JOURNAL-12/) <span style="float: right;">_2024 – Present_</span>
         - [Springer Applied Composite Materials](https://www.springer.com/journal/10443) <span style="float: right;">_2023 – Present_</span>
-        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Transactions on Intelligent Transportation Systems (TITS)](https://ieee-itss.org/pub/t-its/) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Access](https://ieeeaccess.ieee.org/) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">_2023 – Present_</span>
@@ -140,6 +139,7 @@ sections:
         - [IEEE International Conference on Distributed Computing Systems (ICDCS)](https://icdcs2024.icdcs.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">_2024_</span>
+        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut) <span style="float: right;">_2023_</span>
         - [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://2023.ieee-itsc.org/) <span style="float: right;">_2023_</span>
         - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">_2023_</span>
 
