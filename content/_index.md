@@ -115,8 +115,8 @@ sections:
         - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 
         ### Journal Reviewer
-        - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm) <span style="float: right;">_2024 – Present_</span>
+        - [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp) <span style="float: right;">_2024 – Present_</span>
+        - [IEEE Transactions on Network and Service Management (TNSM)](https://www.comsoc.org/publications/journals/ieee-tnsm) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Communications (TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom) <span style="float: right;">_2024 – Present_</span>
