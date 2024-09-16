@@ -115,6 +115,8 @@ sections:
         - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 
         ### Journal Reviewer
+        - [IEEE Transactions on Wireless Communications (TWC)](https://www.comsoc.org/publications/journals/ieee-twc) <span style="float: right;">_2024 – Present_</span>
+        - [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Network Science and Engineering (TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Network and Service Management (TNSM)](https://www.comsoc.org/publications/journals/ieee-tnsm) <span style="float: right;">_2024 – Present_</span>
