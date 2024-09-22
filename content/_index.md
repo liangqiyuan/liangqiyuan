@@ -139,6 +139,7 @@ sections:
         - [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – Present_</span>
 
         ### Conference Reviewer
+        - [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025/) <span style="float: right;">_2025_</span>
         - [International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2025) <span style="float: right;">_2025_</span>
         - [ACM International Conference on Information and Knowledge Management (CIKM)](https://cikm2024.org/) <span style="float: right;">_2024_</span>
         - [IEEE Sensors Conference](https://2024.ieee-sensorsconference.org/) <span style="float: right;">_2023, 2024_</span>
