@@ -3,11 +3,9 @@ title: Liangqi Yuan
 role: PhD Student
 avatar_filename: Liangqi Yuan.jpg
 interests:
-  - Internet of Things
-  - Machine Learning
-  - Federated Learning
   - Multimodal Learning
-  - Sensors
+  - Mobile Computing
+  - Internet of Things
 social:
   - icon: envelope
     icon_pack: fas
