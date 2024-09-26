@@ -1,5 +1,5 @@
 ---
-title: "🆕 FedMFS: Federated Multimodal Fusion Learning with Selective Modality Communication"
+title: "🔥 FedMFS: Federated Multimodal Fusion Learning with Selective Modality Communication"
 publication_types:
   - "1"
 authors:
