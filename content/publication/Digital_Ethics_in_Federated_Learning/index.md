@@ -1,5 +1,5 @@
 ---
-title: "🆕 Digital Ethics in Federated Learning"
+title: "🔥 Digital Ethics in Federated Learning"
 publication_types:
   - "2"
 authors:
