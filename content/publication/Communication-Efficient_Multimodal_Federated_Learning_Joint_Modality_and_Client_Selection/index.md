@@ -1,5 +1,5 @@
 ---
-title: "🔥 Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection"
+title: "🆕 Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection"
 url: "mmFedMC"
 publication_types:
   - "3"
