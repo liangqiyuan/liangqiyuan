@@ -3,9 +3,9 @@ title: Liangqi Yuan
 role: PhD Student
 avatar_filename: Liangqi Yuan.jpg
 interests:
-  - Multimodal Learning
-  - Mobile Computing
-  - Internet of Things
+  - 🦩 Multimodal Learning
+  - 📱 Mobile Computing
+  - 🌐 Internet of Things
 social:
   - icon: envelope
     icon_pack: fas
