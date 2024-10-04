@@ -110,7 +110,6 @@ sections:
       title: Professional Activities
       subtitle: ''
       text: |-
-
         ### Journal Reviewer
         - [IEEE Transactions on Wireless Communications (TWC)](https://www.comsoc.org/publications/journals/ieee-twc) <span style="float: right;">_2024 – Present_</span>
         - [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist) <span style="float: right;">_2024 – Present_</span>
