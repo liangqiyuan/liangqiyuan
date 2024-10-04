@@ -1,5 +1,5 @@
 ---
-title: "🔥 A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture"
+title: "🆕 A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture"
 publication_types:
   - "3"
 authors:
