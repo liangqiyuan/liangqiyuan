@@ -110,9 +110,6 @@ sections:
       title: Professional Activities
       subtitle: ''
       text: |-
-        ### Technical Program Committee Member
-        - [IEEE International Symposium on Embedded Multicore/Manycore SoCs (MCSoC)](https://www.mcsoc-forum.org/) <span style="float: right;">_2024_</span>
-        - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 
         ### Journal Reviewer
         - [IEEE Transactions on Wireless Communications (TWC)](https://www.comsoc.org/publications/journals/ieee-twc) <span style="float: right;">_2024 – Present_</span>
@@ -138,11 +135,13 @@ sections:
         - [IEEE Internet of Things Journal (IoT-J)](https://ieee-iotj.org/) <span style="float: right;">_2022 – Present_</span>
         - [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – Present_</span>
 
-        ### Conference Reviewer
+        ### Technical Program Committee (TPC) Member/Reviewer
         - [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025/) <span style="float: right;">_2025_</span>
         - [International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2025) <span style="float: right;">_2025_</span>
         - [ACM International Conference on Information and Knowledge Management (CIKM)](https://cikm2024.org/) <span style="float: right;">_2024_</span>
+        - [IEEE International Symposium on Embedded Multicore/Manycore SoCs (MCSoC)](https://www.mcsoc-forum.org/) <span style="float: right;">_2024_</span>
         - [IEEE Sensors Conference](https://2024.ieee-sensorsconference.org/) <span style="float: right;">_2023, 2024_</span>
+        - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
         - [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) <span style="float: right;">_2024_</span>
         - [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) AI4CC Workshop](https://ai4cc.net/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Distributed Computing Systems (ICDCS)](https://icdcs2024.icdcs.org/) <span style="float: right;">_2024_</span>
