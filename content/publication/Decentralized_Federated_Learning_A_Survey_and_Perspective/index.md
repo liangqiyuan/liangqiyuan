@@ -1,5 +1,5 @@
 ---
-title: "🔥 Decentralized Federated Learning: A Survey and Perspective"
+title: "🆕 Decentralized Federated Learning: A Survey and Perspective"
 publication_types:
   - "2"
 authors:
