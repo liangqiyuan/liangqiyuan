@@ -1,8 +1,7 @@
 ---
 title: "🔥 MLLMap"
 url: "MLLMap"
-publication_types:
-  - "3"
+draft: true
 featured: false
 authors:
   - admin
