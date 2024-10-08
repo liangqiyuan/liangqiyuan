@@ -1,0 +1,33 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graph RL Path Visualization</title>
+</head>
+<body>
+    <h1>Graph RL Path Visualization</h1>
+    <form action="/plot" method="post">
+        <h2>Start Location:</h2>
+        Latitude: <input type="text" name="start_lat" required><br>
+        Longitude: <input type="text" name="start_lon" required><br>
+        <h2>Landmark 1 Options:</h2>
+        Latitude 1: <input type="text" name="landmark1_lat1" required><br>
+        Longitude 1: <input type="text" name="landmark1_lon1" required><br>
+        Latitude 2: <input type="text" name="landmark1_lat2" required><br>
+        Longitude 2: <input type="text" name="landmark1_lon2" required><br>
+        Latitude 3: <input type="text" name="landmark1_lat3" required><br>
+        Longitude 3: <input type="text" name="landmark1_lon3" required><br>
+        <h2>Landmark 2 Options:</h2>
+        Latitude 1: <input type="text" name="landmark2_lat1" required><br>
+        Longitude 1: <input type="text" name="landmark2_lon1" required><br>
+        Latitude 2: <input type="text" name="landmark2_lat2" required><br>
+        Longitude 2: <input type="text" name="landmark2_lon2" required><br>
+        <h2>Goal Location:</h2>
+        Latitude: <input type="text" name="goal_lat" required><br>
+        Longitude: <input type="text" name="goal_lon" required><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
