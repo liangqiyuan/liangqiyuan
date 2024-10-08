@@ -10,6 +10,9 @@ doi: ""
 publication: ""
 publication_short: ""
 abstract: ""
+projects: ""
+image:
+  filename: ""
 date: 1999-01-18T14:31:11.488Z
 ---
 
