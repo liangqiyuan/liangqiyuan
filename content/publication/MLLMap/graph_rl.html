@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graph RL Path Visualization with PyScript</title>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+</head>
+<body>
+    <h1>Graph RL Path Visualization</h1>
+
+    <form id="input-form">
+        <h2>Start Location:</h2>
+        Latitude: <input type="text" id="start_lat" required><br>
+        Longitude: <input type="text" id="start_lon" required><br>
+        <h2>Landmark 1 Options:</h2>
+        Latitude 1: <input type="text" id="landmark1_lat1" required><br>
+        Longitude 1: <input type="text" id="landmark1_lon1" required><br>
+        Latitude 2: <input type="text" id="landmark1_lat2" required><br>
+        Longitude 2: <input type="text" id="landmark1_lon2" required><br>
+        Latitude 3: <input type="text" id="landmark1_lat3" required><br>
+        Longitude 3: <input type="text" id="landmark1_lon3" required><br>
+        <h2>Landmark 2 Options:</h2>
+        Latitude 1: <input type="text" id="landmark2_lat1" required><br>
+        Longitude 1: <input type="text" id="landmark2_lon1" required><br>
+        Latitude 2: <input type="text" id="landmark2_lat2" required><br>
+        Longitude 2: <input type="text" id="landmark2_lon2" required><br>
+        <h2>Goal Location:</h2>
+        Latitude: <input type="text" id="goal_lat" required><br>
+        Longitude: <input type="text" id="goal_lon" required><br>
+        <button type="button" onclick="runPython()">Submit</button>
+    </form>
+
+    <div id="output">
+        <h2>Visualization Result:</h2>
+        <py-script id="python-plot">
+        </py-script>
+    </div>
+
+    <script>
+        function runPython() {
+            const start_lat = parseFloat(document.getElementById('start_lat').value);
+            const start_lon = parseFloat(document.getElementById('start_lon').value);
+            const landmark1_lat1 = parseFloat(document.getElementById('landmark1_lat1').value);
+            const landmark1_lon1 = parseFloat(document.getElementById('landmark1_lon1').value);
+            const landmark1_lat2 = parseFloat(document.getElementById('landmark1_lat2').value);
+            const landmark1_lon2 = parseFloat(document.getElementById('landmark1_lon2').value);
+            const landmark1_lat3 = parseFloat(document.getElementById('landmark1_lat3').value);
+            const landmark1_lon3 = parseFloat(document.getElementById('landmark1_lon3').value);
+            const landmark2_lat1 = parseFloat(document.getElementById('landmark2_lat1').value);
+            const landmark2_lon1 = parseFloat(document.getElementById('landmark2_lon1').value);
+            const landmark2_lat2 = parseFloat(document.getElementById('landmark2_lat2').value);
+            const landmark2_lon2 = parseFloat(document.getElementById('landmark2_lon2').value);
+            const goal_lat = parseFloat(document.getElementById('goal_lat').value);
+            const goal_lon = parseFloat(document.getElementById('goal_lon').value);
+
+            pyscript.interpreter.globals.set("start", [start_lat, start_lon]);
+            pyscript.interpreter.globals.set("landmark1", [
+                [landmark1_lat1, landmark1_lon1],
+                [landmark1_lat2, landmark1_lon2],
+                [landmark1_lat3, landmark1_lon3]
+            ]);
+            pyscript.interpreter.globals.set("landmark2", [
+                [landmark2_lat1, landmark2_lon1],
+                [landmark2_lat2, landmark2_lon2]
+            ]);
+            pyscript.interpreter.globals.set("goal", [goal_lat, goal_lon]);
+
+            document.getElementById("python-plot").innerHTML = `
+                import matplotlib.pyplot as plt
+                import networkx as nx
+                import numpy as np
+                from shapely.geometry import Point, LineString
+
+                def create_graph(start, landmark1, landmark2, goal):
+                    G = nx.DiGraph()
+                    custom_positions = {0: start}
+                    for i, landmark in enumerate(landmark1):
+                        custom_positions[i + 1] = landmark
+                    for i, landmark in enumerate(landmark2):
+                        custom_positions[len(landmark1) + i + 1] = landmark
+                    custom_positions[len(landmark1) + len(landmark2) + 1] = goal
+
+                    def haversine_distance(node1, node2):
+                        lat1, lon1 = custom_positions[node1]
+                        lat2, lon2 = custom_positions[node2]
+                        R = 6371
+                        phi1, phi2 = np.radians(lat1), np.radians(lat2)
+                        dphi = np.radians(lat2 - lat1)
+                        dlambda = np.radians(lon2 - lon1)
+                        a = np.sin(dphi / 2.0) ** 2 + np.cos(phi1) * np.cos(phi2) * np.sin(dlambda / 2.0) ** 2
+                        return 2 * R * np.arctan2(np.sqrt(a), np.sqrt(1 - a))
+
+                    for i, j in itertools.combinations(custom_positions.keys(), 2):
+                        if (i == 0 and j in range(1, len(landmark1) + 1)) or (i in range(1, len(landmark1) + 1) and j in range(len(landmark1) + 1, len(landmark1) + len(landmark2) + 1)) or (i in range(len(landmark1) + 1, len(landmark1) + len(landmark2) + 1) and j == len(landmark1) + len(landmark2) + 1):
+                            weight = haversine_distance(i, j)
+                            G.add_edge(i, j, weight=weight)
+
+                    return G, custom_positions
+
+                def render_graph(graph, positions):
+                    fig, ax = plt.subplots(figsize=(15, 10))
+                    nodes = [Point(positions[node][1], positions[node][0]) for node in positions]
+                    xs, ys = zip(*[(geom.x, geom.y) for geom in nodes])
+                    ax.set_xlim(min(xs) - 1, max(xs) + 1)
+                    ax.set_ylim(min(ys) - 1, max(ys) + 1)
+
+                    ax.plot(xs, ys, 'bo', label="Nodes")
+                    plt.title("Graph Visualization")
+                    plt.legend()
+                    plt.show()
+
+                G, positions = create_graph(start, landmark1, landmark2, goal)
+                render_graph(G, positions)
+            `;
+        }
+    </script>
+</body>
+</html>
