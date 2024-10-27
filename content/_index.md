@@ -112,27 +112,27 @@ sections:
       text: |-
         ### Journal Reviewer
         - [IEEE Transactions on Wireless Communications (TWC)](https://www.comsoc.org/publications/journals/ieee-twc) <span style="float: right;">_2024 – Present_</span>
-        - [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Network Science and Engineering (TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Network and Service Management (TNSM)](https://www.comsoc.org/publications/journals/ieee-tnsm) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Communications (TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Sensors Letters](https://ieee-sensorsletters.org/) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Mobile Computing (TMC)](https://www.computer.org/csdl/journal/tm) <span style="float: right;">_2024 – Present_</span>
-        - [Elsevier Measurement](https://www.sciencedirect.com/journal/measurement) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)](https://www.comsoc.org/publications/journals/ieee-tmlcn) <span style="float: right;">_2024 – Present_</span>
-        - [Elsevier Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) <span style="float: right;">_2024 – Present_</span>
-        - [SAE International Journal of Connected and Automated Vehicles](https://www.sae.org/publications/collections/content/E-JOURNAL-12/) <span style="float: right;">_2024 – Present_</span>
-        - [Springer Applied Composite Materials](https://www.springer.com/journal/10443) <span style="float: right;">_2023 – Present_</span>
-        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut) <span style="float: right;">_2023 – Present_</span>
-        - [IEEE Transactions on Intelligent Transportation Systems (TITS)](https://ieee-itss.org/pub/t-its/) <span style="float: right;">_2023 – Present_</span>
-        - [IEEE Access](https://ieeeaccess.ieee.org/) <span style="float: right;">_2023 – Present_</span>
-        - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">_2023 – Present_</span>
         - [IEEE Internet of Things Journal (IoT-J)](https://ieee-iotj.org/) <span style="float: right;">_2022 – Present_</span>
-        - [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – Present_</span>
+        - [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist) <span style="float: right;">_2024_</span>
+        - [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic) <span style="float: right;">_2024_</span>
+        - [IEEE Sensors Letters](https://ieee-sensorsletters.org/) <span style="float: right;">_2024_</span>
+        - [Elsevier Measurement](https://www.sciencedirect.com/journal/measurement) <span style="float: right;">_2024_</span>
+        - [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – 2024_</span>
+        - [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/) <span style="float: right;">_2024_</span>
+        - [IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)](https://www.comsoc.org/publications/journals/ieee-tmlcn) <span style="float: right;">_2024_</span>
+        - [Elsevier Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) <span style="float: right;">_2024_</span>
+        - [SAE International Journal of Connected and Automated Vehicles](https://www.sae.org/publications/collections/content/E-JOURNAL-12/) <span style="float: right;">_2024_</span>
+        - [Springer Applied Composite Materials](https://www.springer.com/journal/10443) <span style="float: right;">_2023_</span>
+        - [ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut) <span style="float: right;">_2023_</span>
+        - [IEEE Transactions on Intelligent Transportation Systems (TITS)](https://ieee-itss.org/pub/t-its/) <span style="float: right;">_2023_</span>
+        - [IEEE Access](https://ieeeaccess.ieee.org/) <span style="float: right;">_2023_</span>
+        - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">_2023_</span>
 
         ### Technical Program Committee (TPC) Member/Reviewer
         - [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025/) <span style="float: right;">_2025_</span>
@@ -141,7 +141,6 @@ sections:
         - [IEEE International Symposium on Embedded Multicore/Manycore SoCs (MCSoC)](https://www.mcsoc-forum.org/) <span style="float: right;">_2024_</span>
         - [IEEE Sensors Conference](https://2024.ieee-sensorsconference.org/) <span style="float: right;">_2023, 2024_</span>
         - [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) <span style="float: right;">_2024_</span>
-        - [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) AI4CC Workshop](https://ai4cc.net/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Distributed Computing Systems (ICDCS)](https://icdcs2024.icdcs.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">_2024_</span>
@@ -150,7 +149,8 @@ sections:
 
         ### Proposal Reviewer
         - [Advances in Neural Information Processing Systems (NeurIPS) Workshop Proposals](https://neurips.cc/Conferences/2024/CallForWorkshops) <span style="float: right;">_2024_</span>
-        
+
+# [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) AI4CC Workshop](https://ai4cc.net/) <span style="float: right;">_2024_</span>
 # [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 # [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">_2023_</span>
 # [International Conference on Computer Science and Application Engineering (CSAE)](https://dl.acm.org/conference/csae) <span style="float: right;">_2022_</span>    
