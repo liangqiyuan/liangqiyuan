@@ -140,7 +140,6 @@ sections:
         - [ACM International Conference on Information and Knowledge Management (CIKM)](https://cikm2024.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Symposium on Embedded Multicore/Manycore SoCs (MCSoC)](https://www.mcsoc-forum.org/) <span style="float: right;">_2024_</span>
         - [IEEE Sensors Conference](https://2024.ieee-sensorsconference.org/) <span style="float: right;">_2023, 2024_</span>
-        - [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
         - [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) <span style="float: right;">_2024_</span>
         - [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) AI4CC Workshop](https://ai4cc.net/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Distributed Computing Systems (ICDCS)](https://icdcs2024.icdcs.org/) <span style="float: right;">_2024_</span>
@@ -152,7 +151,7 @@ sections:
         ### Proposal Reviewer
         - [Advances in Neural Information Processing Systems (NeurIPS) Workshop Proposals](https://neurips.cc/Conferences/2024/CallForWorkshops) <span style="float: right;">_2024_</span>
         
-
+# [International Conference on Sensor Device Technologies and Applications](https://www.iaria.org/conferences2024/SENSORDEVICES24.html) <span style="float: right;">_2023, 2024_</span>
 # [International Conference on Mechanical, Electric, and Industrial Engineering (MEIE)](http://www.icmeie.com/) <span style="float: right;">_2023_</span>
 # [International Conference on Computer Science and Application Engineering (CSAE)](https://dl.acm.org/conference/csae) <span style="float: right;">_2022_</span>    
     design:
