@@ -1,5 +1,5 @@
 ---
-title: Smart Pressure e-Mat for Human Sleeping Posture and Dynamic Activity Recognition
+title: 🔥 Smart Pressure e-Mat for Human Sleeping Posture and Dynamic Activity Recognition
 publication_types:
   - "2"
 authors:
@@ -14,7 +14,7 @@ projects:
   - pressure-sensor-array
 image:
   filename: SPeM.png
-date: 2023-05-21T14:31:11.488Z
+date: 2024-11-12T14:31:11.488Z
 links:
   - name: DOI
     url: https://arxiv.org/abs/2305.11367
