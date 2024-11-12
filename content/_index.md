@@ -19,6 +19,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
+        - Nov 2024: One paper has been accepted to [IEEE Journal of Selected Areas in Sensors](https://ieee-jsas.org/).
         - Jul 2024: I am honored to receive an award from the OpenAI Researcher Access Program.
         - May 2024: One paper has been accepted to [IEEE Internet of Things Journal](https://ieee-iotj.org/).
         - Feb 2024: One paper has been accepted to [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic).
