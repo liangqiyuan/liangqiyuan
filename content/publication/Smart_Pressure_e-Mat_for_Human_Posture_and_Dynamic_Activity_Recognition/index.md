@@ -1,5 +1,5 @@
 ---
-title: Smart Pressure e-Mat for Human Posture and Dynamic Activity Recognition
+title: Smart Pressure e-Mat for Human Sleeping Posture and Dynamic Activity Recognition
 publication_types:
   - "2"
 authors:
