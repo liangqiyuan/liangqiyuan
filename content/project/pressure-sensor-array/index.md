@@ -2,7 +2,7 @@
 title: Pressure Sensor Array
 subtitle: "**How can Velostat-based pressure sensors transform human sensing in diverse applications?**"
 date: 2023-02-03T03:22:32.477Z
-draft: false
+draft: True
 featured: false
 authors: []
 tags:
