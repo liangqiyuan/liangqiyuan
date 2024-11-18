@@ -11,6 +11,9 @@ authors:
   - Robert Ewing
   - Erik Blasch
   - Jia Li
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 doi: 10.3390/s22155787
 publication: _Sensors_
 publication_short: ""
