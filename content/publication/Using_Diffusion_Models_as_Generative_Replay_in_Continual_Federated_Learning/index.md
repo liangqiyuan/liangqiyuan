@@ -4,12 +4,15 @@ publication_types:
   - "3"
 featured: true
 authors:
-  - Yongsheng Mei*
-  - admin*
+  - Yongsheng Mei
+  - admin
   - Dong-Jun Han
   - Kevin S. Chan
   - Christopher G. Brinton
   - Tian Lan
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 doi: ""
 publication: _arXiv_
 publication_short: ""
