@@ -4,6 +4,7 @@ url_pdf: ""
 title: Passive Radio Frequency
 subtitle: "**How can we effectively achieve RF sensing in scenarios with unknown transmitters?**"
 date: 2023-02-03T04:14:11.018Z
+draft: True
 summary: ""
 authors: []
 url_video: ""
