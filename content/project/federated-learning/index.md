@@ -2,7 +2,7 @@
 title: Federated Learning
 subtitle: "**How can we ensure the performance of all clients in FL? Is a server necessary in FL? How can multimodal fusion be more effective in FL?**"
 date: 2023-02-07T22:44:09.204Z
-draft: false
+draft: True
 featured: false
 authors:
   - admin
