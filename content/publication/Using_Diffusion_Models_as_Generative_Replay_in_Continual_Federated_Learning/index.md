@@ -20,7 +20,7 @@ abstract: "Federated learning (FL) has become a cornerstone in decentralized lea
 projects:
   - federated-learning
 image:
-  filename: DCFL.png
+  filename: DFCL.png
 date: 2024-11-10T14:31:11.488Z
 links:
   - name: DOI
