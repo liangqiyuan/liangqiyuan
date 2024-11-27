@@ -112,6 +112,7 @@ sections:
       subtitle: ''
       text: |-
         ### Journal Reviewer
+        - [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Wireless Communications (TWC)](https://www.comsoc.org/publications/journals/ieee-twc) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Network Science and Engineering (TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://www.computer.org/csdl/journal/tp) <span style="float: right;">_2024 – Present_</span>
@@ -136,6 +137,7 @@ sections:
         - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">_2023_</span>
 
         ### Technical Program Committee (TPC) Member/Reviewer
+        - [IEEE International Conference on Communications (ICC)](https://icc2025.ieee-icc.org/) <span style="float: right;">_2024, 2025_</span>
         - [IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)](https://ieeevr.org/2025/) <span style="float: right;">_2025_</span>
         - [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025/) <span style="float: right;">_2025_</span>
         - [International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2025) <span style="float: right;">_2025_</span>
@@ -144,7 +146,6 @@ sections:
         - [IEEE Sensors Conference](https://2024.ieee-sensorsconference.org/) <span style="float: right;">_2023, 2024_</span>
         - [Advances in Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Distributed Computing Systems (ICDCS)](https://icdcs2024.icdcs.org/) <span style="float: right;">_2024_</span>
-        - [IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Computer Communications (INFOCOM)](https://infocom2024.ieee-infocom.org/) <span style="float: right;">_2024_</span>
         - [IEEE International Conference on Intelligent Transportation Systems (ITSC)](https://2023.ieee-itsc.org/) <span style="float: right;">_2023_</span>
         - [IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)](https://ieeemobility.org/MOST2023/) <span style="float: right;">_2023_</span>
