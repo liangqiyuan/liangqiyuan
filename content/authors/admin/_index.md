@@ -24,7 +24,7 @@ organizations:
     url: https://www.purdue.edu/
 education:
   courses:
-    - course: Ph.D. in Computer Engineering
+    - course: Ph.D. in Electrical Engineering
       institution: Purdue University
       year: 2026
     - course: M.S. in Electrical Engineering
