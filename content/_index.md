@@ -120,12 +120,12 @@ sections:
         - [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Communications (TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom) <span style="float: right;">_2024 – Present_</span>
         - [IEEE Transactions on Mobile Computing (TMC)](https://www.computer.org/csdl/journal/tm) <span style="float: right;">_2024 – Present_</span>
-        - [IEEE Internet of Things Journal (IoT-J)](https://ieee-iotj.org/) <span style="float: right;">_2022 – Present_</span>
+        - [IEEE Internet of Things Journal (IoT-J)](https://ieee-iotj.org/) <span style="float: right;">_2022 – 2024_</span>
+        - [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – 2024_</span>
         - [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist) <span style="float: right;">_2024_</span>
         - [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic) <span style="float: right;">_2024_</span>
         - [IEEE Sensors Letters](https://ieee-sensorsletters.org/) <span style="float: right;">_2024_</span>
         - [Elsevier Measurement](https://www.sciencedirect.com/journal/measurement) <span style="float: right;">_2024_</span>
-        - [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieee-itss.org/pub/t-iv/) <span style="float: right;">_2022 – 2024_</span>
         - [IEEE Transactions on Geoscience and Remote Sensing (TGRS)](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/) <span style="float: right;">_2024_</span>
         - [IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)](https://www.comsoc.org/publications/journals/ieee-tmlcn) <span style="float: right;">_2024_</span>
         - [Elsevier Engineering Applications of Artificial Intelligence (EAAI)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) <span style="float: right;">_2024_</span>
