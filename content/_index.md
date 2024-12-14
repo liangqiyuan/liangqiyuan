@@ -137,6 +137,7 @@ sections:
         - [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/) <span style="float: right;">_2023_</span>
 
         ### Technical Program Committee (TPC) Member/Reviewer
+        - [International Conference on Machine Learning (ICML)](https://icml.cc/) <span style="float: right;">_2025_</span>
         - [IEEE International Conference on Communications (ICC)](https://icc2025.ieee-icc.org/) <span style="float: right;">_2024, 2025_</span>
         - [IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)](https://ieeevr.org/2025/) <span style="float: right;">_2025_</span>
         - [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/aistats2025/) <span style="float: right;">_2025_</span>
